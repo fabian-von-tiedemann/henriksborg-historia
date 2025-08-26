@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ title or 'Henriksborg' }}</title>
+  <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+<header>
+  <nav class="nav" aria-label="Huvudnavigering">
+    <a href="/">Henriksborg</a>
+    <div style="margin-left:auto">
+      <a href="/admin/">Admin</a>
+    </div>
+  </nav>
+</header>
+<div class="container">
+  {{ content | safe }}
+</div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+---
+layout: base
+title: "Henriksborg – historia & omgivning"
+---
+
+<h1>Henriksborg – historia & omgivning</h1>
+<p>Välj en sida:</p>
+<ul>
+{% for item in collections.all | sort(attribute='url') %}
+  {% if item.data.layout == "page" %}
+    <li><a href="{{ item.url }}">{{ item.data.title or item.fileSlug }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
