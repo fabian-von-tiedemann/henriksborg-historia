@@ -1,0 +1,13 @@
+/* Minimal modern styles; replace freely */
+:root { --maxw: 1100px; --bg:#0b1020; --text:#f5f7ff; --muted:#b8c0ff; }
+* { box-sizing: border-box; }
+body { margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; background: var(--bg); color: var(--text); line-height:1.6; }
+header { position: sticky; top:0; background: rgba(10,14,28,.85); border-bottom: 1px solid rgba(255,255,255,.08); backdrop-filter: blur(8px); }
+.nav { max-width: var(--maxw); margin:0 auto; padding:.8rem 1rem; display:flex; gap:1rem; align-items:center; }
+.nav a { color: var(--muted); text-decoration:none; padding:.35rem .6rem; border-radius:999px; }
+.nav a:hover { background: rgba(255,255,255,.08); color: var(--text); }
+.container { max-width: var(--maxw); margin: 0 auto; padding: 2rem 1rem 4rem; }
+main article { background: rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.08); border-radius:14px; padding:1.6rem; }
+figure { margin:1.2rem 0; }
+figcaption { color: var(--muted); font-size:.95rem; }
+a { color:#9bb1ff; }

@@ -1,0 +1,31 @@
+backend:
+  # Alternativ 1: Netlify Identity + Git Gateway (enkelt)
+  name: git-gateway
+  branch: main
+
+  # Alternativ 2: GitHub (kommentera in och uppdatera repo)
+  # name: github
+  # repo: <ditt_github_anv>/<ditt_repo>
+  # branch: main
+
+site_url: /
+logo_url: /assets/hsb/logo.svg
+
+media_folder: "assets/hsb"
+public_folder: "/assets/hsb"
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: "pages"
+    label: "Sidor"
+    label_singular: "Sida"
+    folder: "src/pages"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Permalänk", name: "permalink", widget: "string", default: "/{{slug}}/", hint: "Börja och sluta med /" }
+      - { label: "Layout", name: "layout", widget: "string", default: "page" }
+      - { label: "Innehåll", name: "body", widget: "markdown" }
