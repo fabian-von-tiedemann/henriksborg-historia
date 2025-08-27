@@ -148,6 +148,42 @@ main article img + em {
   max-width: 100%;
 }
 
+/* Styling för bildtexter som ligger i samma p-tag som bilden */
+.image-container em {
+  display: block;
+  text-align: center;
+  margin: 0.5rem 0 2rem 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.4;
+  font-style: italic;
+  max-width: 100%;
+}
+
+/* Alternativ styling för bildtexter i image-container */
+p.image-container em {
+  display: block;
+  text-align: center;
+  margin: 0.5rem 0 2rem 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.4;
+  font-style: italic;
+  max-width: 100%;
+}
+
+/* Mer specifik styling för bildtexter i image-container */
+.image-container > em {
+  display: block !important;
+  text-align: center !important;
+  margin: 0.5rem 0 2rem 0 !important;
+  color: var(--muted) !important;
+  font-size: 0.9rem !important;
+  line-height: 1.4 !important;
+  font-style: italic !important;
+  max-width: 100% !important;
+}
+
 main article img:hover,
 .article-image:hover {
   transform: scale(1.02);
