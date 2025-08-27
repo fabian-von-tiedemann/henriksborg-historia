@@ -2,6 +2,9 @@ backend:
   name: git-gateway
   branch: main
 
+# Netlify Identity-konfiguration
+local_backend: false
+
 site_url: /
 logo_url: /assets/hsb/logo.svg
 

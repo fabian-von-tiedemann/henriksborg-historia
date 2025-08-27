@@ -7,3 +7,15 @@
   from = "/admin"
   to = "/admin/"
   status = 301
+
+# Netlify Identity redirects
+[[redirects]]
+  from = "/admin/auth"
+  to = "/admin/auth.html"
+  status = 200
+
+# Handle Netlify Identity callbacks
+[[redirects]]
+  from = "/.netlify/identity"
+  to = "/.netlify/identity"
+  status = 200
