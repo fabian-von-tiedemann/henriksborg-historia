@@ -3,6 +3,10 @@
 <main>
   <article>
     {{ content | safe }}
+    
+    {% if images %}
+      {{ images | renderImages | safe }}
+    {% endif %}
   </article>
 </main>
 {% endblock %}

@@ -25,6 +25,23 @@ module.exports = function(eleventyConfig) {
     return content;
   });
 
+  // Nunjucks-filter för att rendera bilder med bildtexter från Decap CMS
+  eleventyConfig.addFilter("renderImages", function(images) {
+    if (!images || !Array.isArray(images)) return '';
+    
+    return images.map(img => {
+      const imagePath = img.image || '';
+      const caption = img.caption || '';
+      
+      return `
+        <div class="image-container">
+          <img src="${imagePath}" alt="${caption}" class="article-image">
+          <p class="image-caption"><em>${caption}</em></p>
+        </div>
+      `;
+    }).join('\n');
+  });
+
   return {
     dir: {
       input: "src",
