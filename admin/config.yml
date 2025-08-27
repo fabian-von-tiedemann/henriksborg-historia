@@ -4,9 +4,20 @@ backend:
   # branch: main
 
   # Alternativ 2: GitHub (kommentera in och uppdatera repo)
-  name: github
+  # name: github
+  # repo: fabian-von-tiedemann/henriksborg-historia
+  # branch: main
+
+  # Alternativ 3: Test med enkel autentisering
+  name: test-repo
   repo: fabian-von-tiedemann/henriksborg-historia
   branch: main
+
+# Enkel autentisering för test
+auth:
+  - name: test
+    username: admin
+    password: test123
 
 site_url: /
 logo_url: /assets/hsb/logo.svg
