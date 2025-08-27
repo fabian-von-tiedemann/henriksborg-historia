@@ -87,7 +87,28 @@ main article img {
   overflow: hidden;
 }
 
-main article img:hover {
+/* Specifika klasser för bilder */
+.article-image {
+  max-width: 100% !important;
+  width: auto !important;
+  height: auto !important;
+  display: block !important;
+  margin: 2rem auto !important;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.image-container {
+  text-align: center;
+  overflow: hidden;
+  max-width: 100%;
+  margin: 2rem 0;
+}
+
+main article img:hover,
+.article-image:hover {
   transform: scale(1.02);
 }
 

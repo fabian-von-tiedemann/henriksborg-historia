@@ -12,6 +12,9 @@ class ImageViewer {
   }
 
   init() {
+    // Lägg till klasser på alla bilder för styling
+    this.addImageClasses();
+    
     // Skapa overlay HTML
     this.createOverlay();
     
@@ -20,6 +23,22 @@ class ImageViewer {
     
     // Lägg till keyboard navigation
     this.setupKeyboardNavigation();
+  }
+
+  addImageClasses() {
+    // Hitta alla bilder i artiklar och lägg till klasser
+    const articleImages = document.querySelectorAll('main article img');
+    
+    articleImages.forEach((img) => {
+      // Lägg till klasser för styling
+      img.classList.add('article-image');
+      
+      // Lägg till klasser på parent p-tag om den finns
+      const parentP = img.closest('p');
+      if (parentP) {
+        parentP.classList.add('image-container');
+      }
+    });
   }
 
   createOverlay() {
