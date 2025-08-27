@@ -74,11 +74,20 @@ figure {
   margin: 2.5rem 0; 
 }
 
+figure img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
 figcaption { 
   color: var(--muted); 
   font-size: 0.95rem; 
   text-align: center;
   margin-top: 1rem;
+  font-style: italic;
 }
 
 a { 
