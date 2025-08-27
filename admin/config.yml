@@ -27,12 +27,5 @@ collections:
       - { label: "Layout", name: "layout", widget: "string", default: "page" }
       - { label: "Sammanfattning (för startsidan)", name: "excerpt", widget: "text", hint: "Kort beskrivning som visas på startsidan", required: false }
       - { label: "Huvudbild", name: "featured_image", widget: "image", hint: "Bild som visas på startsidan", required: false }
-      - { label: "Innehåll", name: "body", widget: "markdown" }
-      - label: "Bilder med bildtexter"
-        name: "images"
-        widget: "list"
-        field:
-          label: "Bild med bildtext"
-          name: "image_with_caption"
-          widget: "image-with-caption"
-        hint: "Lägg till bilder med beskrivande texter"
+      - { label: "Innehåll", name: "body", widget: "markdown", hint: "För bilder med bildtexter: 1) Lägg till bild med ![alt text](bildsökväg), 2) Lägg till bildtext på nästa rad med *kursiv text*" }
+

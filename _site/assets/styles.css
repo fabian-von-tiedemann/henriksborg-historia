@@ -123,6 +123,31 @@ main article img {
   color: var(--muted);
 }
 
+/* Automatisk styling för markdown-bilder med bildtexter */
+main article img + p em,
+main article img + em {
+  display: block;
+  text-align: center;
+  margin: 0.5rem 0 2rem 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.4;
+  font-style: italic;
+  max-width: 100%;
+}
+
+/* Hantera fall där bilden inte är i en p-tag */
+main article img + em {
+  display: block;
+  text-align: center;
+  margin: 0.5rem 0 2rem 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.4;
+  font-style: italic;
+  max-width: 100%;
+}
+
 main article img:hover,
 .article-image:hover {
   transform: scale(1.02);

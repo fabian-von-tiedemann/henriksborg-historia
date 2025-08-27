@@ -4,50 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Henriksborg – Admin</title>
-    <style>
-      .image-with-caption-widget {
-        padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 4px;
-        margin: 5px 0;
-      }
-      
-      .widget-field {
-        margin: 10px 0;
-      }
-      
-      .widget-field label {
-        display: block;
-        font-weight: bold;
-        margin-bottom: 5px;
-      }
-      
-      .widget-field input {
-        width: 100%;
-        padding: 8px;
-        border: 1px solid #ccc;
-        border-radius: 4px;
-      }
-      
-      .image-preview {
-        text-align: center;
-        padding: 10px;
-      }
-      
-      .image-caption-preview {
-        margin-top: 10px;
-        font-style: italic;
-        color: #666;
-      }
-      
-      .image-preview-placeholder {
-        padding: 20px;
-        text-align: center;
-        color: #999;
-        border: 2px dashed #ddd;
-        border-radius: 4px;
-      }
-    </style>
+
   </head>
   <body>
     <!-- Netlify Identity widget -->
@@ -66,69 +23,7 @@
         });
       }
 
-      // Anpassad widget för bilder med bildtexter
-      var ImageWithCaptionControl = createClass({
-        handleImageChange: function(e) {
-          const value = this.props.value || {};
-          this.props.onChange({
-            ...value,
-            image: e.target.value
-          });
-        },
 
-        handleCaptionChange: function(e) {
-          const value = this.props.value || {};
-          this.props.onChange({
-            ...value,
-            caption: e.target.value
-          });
-        },
-
-        render: function() {
-          const value = this.props.value || {};
-          return h('div', { className: 'image-with-caption-widget' },
-            h('div', { className: 'widget-field' },
-              h('label', {}, 'Bild URL:'),
-              h('input', {
-                type: 'text',
-                value: value.image || '',
-                onChange: this.handleImageChange,
-                placeholder: '/assets/hsb/bildnamn.jpg'
-              })
-            ),
-            h('div', { className: 'widget-field' },
-              h('label', {}, 'Bildtext:'),
-              h('input', {
-                type: 'text',
-                value: value.caption || '',
-                onChange: this.handleCaptionChange,
-                placeholder: 'Beskrivande text för bilden'
-              })
-            )
-          );
-        }
-      });
-
-      var ImageWithCaptionPreview = createClass({
-        render: function() {
-          const value = this.props.value || {};
-          if (!value.image) {
-            return h('div', { className: 'image-preview-placeholder' }, 'Ingen bild vald');
-          }
-          
-          return h('div', { className: 'image-preview' },
-            h('img', {
-              src: value.image,
-              alt: value.caption || '',
-              style: { maxWidth: '100%', height: 'auto' }
-            }),
-            value.caption && h('p', { className: 'image-caption-preview' }, value.caption)
-          );
-        }
-      });
-
-      // Registrera den anpassade widgeten
-      CMS.registerWidget('image-with-caption', ImageWithCaptionControl, ImageWithCaptionPreview);
     </script>
   </body>
 </html>
