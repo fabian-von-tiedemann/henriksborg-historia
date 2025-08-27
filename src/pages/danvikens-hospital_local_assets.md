@@ -1,10 +1,9 @@
 ---
-layout: page
-title: "Danvikens hospital"
+title: Danvikens hospital
 permalink: /danvikens-hospital/
+layout: page
 ---
-
-# Danvikens hospital
+# Danvikens hospital!
 
 # Danvikens hospital var framsynt på 1500-talet – men en skam några hundra år senare
 
@@ -12,14 +11,14 @@ permalink: /danvikens-hospital/
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-1.jpg" alt="" />
-  <figcaption>*Danvikshem från Djurgården. Kvarnen till höger står där Fåfängan idag ligger. Akvarell av Georg Albert Muller 1860. Stockholms stadsmuseum 501337*</figcaption>
+  <figcaption>\*Danvikshem från Djurgården. Kvarnen till höger står där Fåfängan idag ligger. Akvarell av Georg Albert Muller 1860. Stockholms stadsmuseum 501337\*</figcaption>
 </figure>
 
 Kung Gustav Vasa är den som har påverkat västra Sicklaön i nuvarande Nacka mest. Han ville på 1500-talet få bort de sjuka, fattiga och gamla från det nedlagda Gråmunkeklostret på Riddarholmen till Danviken. Kungen beskrev Hospitalet på Helgeandsholmen som en smittkälla och ansåg att det spred dålig lukt. Han skrev att de som var sjuka i spetälska tvättade sig själva och sina besmittade kläder i vattnet som sedan flöt runt staden och slottet. Enligt kungens brev spreds en ”mäktig och ond stank”.
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-2.jpg" alt="" />
-  <figcaption>*Gustav Vasas brev 21 februari 1551 om Stockholms hospitals flyttning till Danviken. Riksarkivet, Gustav I:s registratur 1551. Nackas lokalhistoriska arkiv*.</figcaption>
+  <figcaption>\*Gustav Vasas brev 21 februari 1551 om Stockholms hospitals flyttning till Danviken. Riksarkivet, Gustav I:s registratur 1551. Nackas lokalhistoriska arkiv\*.</figcaption>
 </figure>
 
 Den katolska kyrkan hade länge samlat på sig stora rikedomar som Gustav Vasa drog in till staten och sig själv under reformationen. Därför beslöt han att alla gårdar på hela Sicklaön, inklusive Hammarby gård, skulle överlåtas till Danvikens hospital, som därmed fick inkomster och mat i natura. Hammarby gård, som låg där Lumahuset i Hammarby sjöstad nu ligger, hade stora ägor ned mot torpen Kärrtorp, Nytorp, Mårtensdal liksom Barnängen på Södermalm, eller Åsön som det hette då.
@@ -30,14 +29,14 @@ Danvikens hospital var länge en av Nackaområdets mäktigaste jordägare och p�
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-3.jpg" alt="" />
-  <figcaption>*Sankta Klara, Hortolana och Agnes av Assisi. Altartavla från Danvikens hospital i början av 1500-talet. Tavlan kom ursprungligen från de nedlagda Klara kloster. Fotografi av Lennart Karlsson, Historiska museet.*</figcaption>
+  <figcaption>\*Sankta Klara, Hortolana och Agnes av Assisi. Altartavla från Danvikens hospital i början av 1500-talet. Tavlan kom ursprungligen från de nedlagda Klara kloster. Fotografi av Lennart Karlsson, Historiska museet.\*</figcaption>
 </figure>
 
 Kungen hade tidigare beslutat att nivån på Hammarby sjö skulle höjas med drygt tre meter för att ge en bättre fallhöjd åt bäcken som drev smedjan och kvarnen på hospitalsområdet. Vattnet som rann genom Hospitalets område kallades Danviks rännil. Många jordägare runt Hammarby sjö fick kompensation för att deras mark lades under vatten. Det blev nu möjligt att ta sig med båt från Södermalm till Sickla- och Järlasjöarna. Idag måste man slussa eftersom nivån på Hammarby sjö sänktes när Danvikskanalen byggdes.
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-4.jpg" alt="" />
-  <figcaption>*På den här kartan från 1776 syns tydligt att Danviks rännil rinner under byggnaderna – även under den stora huvudbyggnaden som står kvar än idag. Österut syns Hindricsborg – saltsjuderiet som blev dårhus. Det gulputsade huset är idag en  bostadsrättsförening. Även Hindricsdal är inritad. Riksantikvarieämbetet.*</figcaption>
+  <figcaption>\*På den här kartan från 1776 syns tydligt att Danviks rännil rinner under byggnaderna – även under den stora huvudbyggnaden som står kvar än idag. Österut syns Hindricsborg – saltsjuderiet som blev dårhus. Det gulputsade huset är idag en  bostadsrättsförening. Även Hindricsdal är inritad. Riksantikvarieämbetet.\*</figcaption>
 </figure>
 
 <figure>
@@ -48,7 +47,7 @@ Kungen hade tidigare beslutat att nivån på Hammarby sjö skulle höjas med dry
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-6.jpg" alt="" />
-  <figcaption>*Här syns kvarnen i mitten med sina dammluckor och porten in till hospitalsområdet som det såg ut senast 1890. Vägen slingrar sig runt Hammarby sjö i förgrunden, över bron, ut mot Värmdö. Oljemålning av A. Hökenberg.*</figcaption>
+  <figcaption>\*Här syns kvarnen i mitten med sina dammluckor och porten in till hospitalsområdet som det såg ut senast 1890. Vägen slingrar sig runt Hammarby sjö i förgrunden, över bron, ut mot Värmdö. Oljemålning av A. Hökenberg.\*</figcaption>
 </figure>
 
 Gustav Vasa är känd för att ha lagt sig i även små detaljer. Han bestämde att det nya hospitalet skulle ha stora och många fönster så att det gick att vädra ordentligt. Han föreskrev att maten skulle vara bra så att även de svårast sjuka skulle vilja äta. Föreståndaren, som kallades syssloman, ”skulle vara en sådan man som de fattige kär haver, den där ock vill leva och dö med dem i hospitalen, om man en sådan man bekomme kan”.
@@ -63,7 +62,7 @@ De gårdar som ägdes av hospitalet skulle både leverera i natura och pengar f�
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-7.jpg" alt="" />
-  <figcaption>*Hela Sicklaön, från Danviken allra längst i väster mot Södermalm till Skurusundet i öster, låg under Danvikens hospital. Lantmäteriet. 1782. Gabriel Boding.*</figcaption>
+  <figcaption>\*Hela Sicklaön, från Danviken allra längst i väster mot Södermalm till Skurusundet i öster, låg under Danvikens hospital. Lantmäteriet. 1782. Gabriel Boding.\*</figcaption>
 </figure>
 
 Under vissa perioder hade hospitalet extra ont om pengar vilket naturligtvis gick ut över de intagna. Under 1600-talet  var det särskilt illa och rikskanslern Axel Oxenstierna bestämde att skämt kött som beslagtagits hos slaktare i staden skulle ges till de intagna på Hospitalet.
@@ -88,7 +87,7 @@ En av dem var pietisten Thomas Leopold som var inspärrad på Danviken några å
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-8.jpg" alt="" />
-  <figcaption>*Hammarby sjös utlopp kallades för Danviks rännil. På Hospitalsområdet rann den ut i Saltsjön efter att ha passerat en kvarn, en smedja, genom kyrkan med alla sjuksängar och ett antal dass som på så sätt blev tidiga vattenklosetter. Foto Saltsjöqvarn 1915. Nacka lokalhistoriska arkiv.*</figcaption>
+  <figcaption>\*Hammarby sjös utlopp kallades för Danviks rännil. På Hospitalsområdet rann den ut i Saltsjön efter att ha passerat en kvarn, en smedja, genom kyrkan med alla sjuksängar och ett antal dass som på så sätt blev tidiga vattenklosetter. Foto Saltsjöqvarn 1915. Nacka lokalhistoriska arkiv.\*</figcaption>
 </figure>
 
 Nackas första skola fanns på Danvikens hospitalsområde redan 1683. Det var ett ”hittebarnhem” för ”pilte- och pigebarn” som räddades från undergång och fick uppehälle. De fick lära sig läsa och kristendom och fick någon slags uppfostran. 1703 gick där 13 gossar och 3 flickor. Skolprästen Andreas Bredberg, som senare blev kyrkoherde, beskrev dem som: ”Usla, vankytta, av gatan upptagna, illa uppfostrade och vanartade barn, krymplingar och brottfällingar.” Ännu i början av 1800-talet gick 32 barn i den skolan.
@@ -107,14 +106,14 @@ Genom en kunglig insamling lyckades man bygga den nya kyrkan med vårdplatser so
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-9.jpg" alt="" />
-  <figcaption>*Kyrkan från 1700-talet är den enda av hospitalets byggnader som står kvar. Här syns med orgeln längst bort och på sidoväggarna de fönster som ledde till sjukavdelningarna i sidoskeppen. Larssons ateljé 1906. Stockholms stadsmuseum Fotonummer C 620.*</figcaption>
+  <figcaption>\*Kyrkan från 1700-talet är den enda av hospitalets byggnader som står kvar. Här syns med orgeln längst bort och på sidoväggarna de fönster som ledde till sjukavdelningarna i sidoskeppen. Larssons ateljé 1906. Stockholms stadsmuseum Fotonummer C 620.\*</figcaption>
 </figure>
 
 Ända fram till 1809 rådde kyrkogångsplikt – som betydde att alla var tvungna att gå i kyrkan varje söndag. Prästen i kapellet vid Nacka ström krävde att de som bodde på västra Sicklaön, men inte tillhörde hospitalet, skulle ta sig hela vägen till Nacka ström. Men efter många skrivelser och ett kungligt beslut år 1771 fick invånarna på västra Sicklaön fortsätta att gå i Hospitalets kyrka som låg så nära.
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-10.jpg" alt="" />
-  <figcaption>*”Danviks dårhus” är idag bostäder. Foto Janne Petersson 2022.*</figcaption>
+  <figcaption>\*”Danviks dårhus” är idag bostäder. Foto Janne Petersson 2022.\*</figcaption>
 </figure>
 
 Under åren 1787 till 1861använde Hospitalet det gamla saltsjuderiet på kajen för vården av sinnessjuka och veneriskt sjuka. Det fick namnet Danviks dårhus. Huset byggdes på 1600-talet för ett misslyckat försök att utvinna salt ut Saltsjön.
@@ -131,19 +130,19 @@ Kritiken gav så småningom resultat. Ett nytt hospital för sinnessjuka byggdes
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-11.jpg" alt="" />
-  <figcaption>*”Dårarnas slott” Konradsberg ca 1860 dit de sinnessjuka från Danviken flyttades. Ligger i Marieberg på Kungsholmen och här fanns, ett antal år lärarhögskolan. Stadsmuseet. Okänd fotograf.*</figcaption>
+  <figcaption>\*”Dårarnas slott” Konradsberg ca 1860 dit de sinnessjuka från Danviken flyttades. Ligger i Marieberg på Kungsholmen och här fanns, ett antal år lärarhögskolan. Stadsmuseet. Okänd fotograf.\*</figcaption>
 </figure>
 
 Några årtionden tidigare hade de veneriskt sjuka flyttats till kurhuset på Kungsholmen och krigsinvaliderna till Ulriksdal. Efter dessa förändringar blev Danviken ett hem för gamla och fattiga.
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-12-2048x1578.jpg" alt="" />
-  <figcaption>*Entrén till Hospitalet 1915. Nacka Lokalhistoriska arkiv.*</figcaption>
+  <figcaption>\*Entrén till Hospitalet 1915. Nacka Lokalhistoriska arkiv.\*</figcaption>
 </figure>
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-13-2.jpg" alt="" />
-  <figcaption>*Huvudbyggnaden, med kyrkan och sjuksalarna, som ännu står kvar. Fotograf Aktiebolaget Saltsjöqvarn 1915. Nacka lokalhistoriska arkiv.*</figcaption>
+  <figcaption>\*Huvudbyggnaden, med kyrkan och sjuksalarna, som ännu står kvar. Fotograf Aktiebolaget Saltsjöqvarn 1915. Nacka lokalhistoriska arkiv.\*</figcaption>
 </figure>
 
 År 1894 fanns 216 inneboende på Danviken. De flesta var kvinnor som betalade en årlig avgift. De som kunde arbeta fick olika sysslor i självhushållet och ingen fick lämna området utan permission. Man åt och sov i sin säng och där dog man eftersom sjukavdelning saknades. Den enda lyxen som fanns var varmbad och personalen fick några öre extra för varje person som badades.
@@ -152,7 +151,7 @@ Kosten varierade mellan fyra rätter: soppa, gröt, saltfisk och salt kött. End
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-14.jpg" alt="" />
-  <figcaption>*Längs till vänster Saltsjöqvarns byggnader och hospitalsbyggnaderna syns närmast kameran. Den stora byggnaden i mitten står ännu kvar. Snett till vänster syns ett kombinerat kontor och bostad för hospitalets ledning. Foto Saltsjöqvarn 1915. Nacka Lokalhistoriska arkiv.*</figcaption>
+  <figcaption>\*Längs till vänster Saltsjöqvarns byggnader och hospitalsbyggnaderna syns närmast kameran. Den stora byggnaden i mitten står ännu kvar. Snett till vänster syns ett kombinerat kontor och bostad för hospitalets ledning. Foto Saltsjöqvarn 1915. Nacka Lokalhistoriska arkiv.\*</figcaption>
 </figure>
 
 Fram till 1900-talets början beskrevs de intagna som fattighjon – som var den vanliga beteckningen.
@@ -161,31 +160,31 @@ I boken ”En berättelse om stiftelsen Danviks hospital under 450 år” från 
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-15-2048x1446.jpg" alt="" />
-  <figcaption>*Hospitalsområdet mot Södermalm och Fåfängan till vänster, runt 1900. Huvudbyggnaden i mitten. Fotograf: Danvikens arkiv. Nacka Lokalhistoriska arkiv.*</figcaption>
+  <figcaption>\*Hospitalsområdet mot Södermalm och Fåfängan till vänster, runt 1900. Huvudbyggnaden i mitten. Fotograf: Danvikens arkiv. Nacka Lokalhistoriska arkiv.\*</figcaption>
 </figure>
 
 Men även personalen hade stränga regler att rätta sig efter och var tvungna att t. ex. begära permission om de behövde lämna hospitalområdet för att uträtta ärenden. Personalen var i tjänst alla vakna timmar och bodde ända till i början av 1900-talet ofta i salarna tillsammans med de gamla. Pension fanns inte – utan man jobbade in i det sista. Lönen var låg och en del betalades ut i natura alltså säd eller annat. Mycket ingick dock i den kost och logi som bestods.
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-16.jpg" alt="" />
-  <figcaption>*Hospitalets ekonomibyggnad och bron med Saltsjöbanan. Uppe till vänster syns den nu försvunna Danviksgatan från Söder och Liljeholmens fabriker. Foto Aktiebolaget Saltsjöqvarn 1915. Nacka Lokalhistoriska arkiv.*</figcaption>
+  <figcaption>\*Hospitalets ekonomibyggnad och bron med Saltsjöbanan. Uppe till vänster syns den nu försvunna Danviksgatan från Söder och Liljeholmens fabriker. Foto Aktiebolaget Saltsjöqvarn 1915. Nacka Lokalhistoriska arkiv.\*</figcaption>
 </figure>
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-17.jpg" alt="" />
-  <figcaption>*Sedan början av 1890-talet strök Saltsjöbanan förbi Hospitalets entré vid Hammarby sjös utlopp. Här är den första bron som senare ersattes av en klaffbro då kanalen grävdes ut. Fotografen står på landsvägen ut mot Värmdö, nedanför Danviksklippan där kanalen idag går. Foto Carl Johan Gimberg 1896. Stockholms stadsmuseum Fotonummer Fa 3838.*</figcaption>
+  <figcaption>\*Sedan början av 1890-talet strök Saltsjöbanan förbi Hospitalets entré vid Hammarby sjös utlopp. Här är den första bron som senare ersattes av en klaffbro då kanalen grävdes ut. Fotografen står på landsvägen ut mot Värmdö, nedanför Danviksklippan där kanalen idag går. Foto Carl Johan Gimberg 1896. Stockholms stadsmuseum Fotonummer Fa 3838.\*</figcaption>
 </figure>
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-18.jpg" alt="" />
-  <figcaption>*Danviksbro med Saltsjöbanan 1893 och Hospitalets byggnader i bakgrunden. Bilden är tagen mot norr, från sluttningen av Danviksklippen innan kanalen grävdes fram. Fotograf okänd. Stockholms stadsmuseum Fotonummer C 1235.*</figcaption>
+  <figcaption>\*Danviksbro med Saltsjöbanan 1893 och Hospitalets byggnader i bakgrunden. Bilden är tagen mot norr, från sluttningen av Danviksklippen innan kanalen grävdes fram. Fotograf okänd. Stockholms stadsmuseum Fotonummer C 1235.\*</figcaption>
 </figure>
 
 *Danviks kvarn från 1543 var i bruk till 1900. Mjölnarens bostad ligger på berget ovanför. Larssons Ateljé 1906. Stockholms stadsmuseum Fotonummer C 617.*
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-20.jpg" alt="" />
-  <figcaption>*Hammarby sjös utlopp vid Danviken 1915 innan kanalen började grävas ut. Sjön var delvis igenväxt. Till höges syns Liljeholmens fabriker på Södermalmssidan. Vägen slingrar sig vidare runt Danviksklippan mot Värmdö till vänster i bilden. **Fotograf Aktiebolaget Saltsjöqvarn. Nacka lokalhistoriska arkiv.*</figcaption>
+  <figcaption>\*Hammarby sjös utlopp vid Danviken 1915 innan kanalen började grävas ut. Sjön var delvis igenväxt. Till höges syns Liljeholmens fabriker på Södermalmssidan. Vägen slingrar sig vidare runt Danviksklippan mot Värmdö till vänster i bilden. \*\*Fotograf Aktiebolaget Saltsjöqvarn. Nacka lokalhistoriska arkiv.\*</figcaption>
 </figure>
 
 Hammarby sjö hade med industrialiseringen och befolkningsökningen blivit en stinkande göl. Fabriker, slakterier och garverier förorenade vattnet och spred en fruktansvärd stank.
@@ -198,7 +197,7 @@ Alla byggnader på området utom kyrkan måste nu rivas och alla gamla flyttas f
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-21.jpg" alt="" />
-  <figcaption>*Här har nästan alla byggnader på hospitalsområdet rivits för att ge plats för kanalen som snart ska börja grävas. Bara kyrkobyggnaden, som idag står kvar, syns på bilden. Stadsmuseet i Stockholm 1917–1920. Fotograf okänd. Fa37529*</figcaption>
+  <figcaption>\*Här har nästan alla byggnader på hospitalsområdet rivits för att ge plats för kanalen som snart ska börja grävas. Bara kyrkobyggnaden, som idag står kvar, syns på bilden. Stadsmuseet i Stockholm 1917–1920. Fotograf okänd. Fa37529\*</figcaption>
 </figure>
 
 När arbetena med kanalen inleddes 1917 hade Stockholms stad av Nacka köpt hospitalsområdet ända till tio meter öster om dagens kanal och även områdena på östra och södra sidan av Hammarby sjö. Den nu tvärt avkapade Danviksklippan ligger därför i Stockholm, liksom västra delen av Henriksdalsberget där stadens reningsverk ligger. Västra delen av Henriksdalsberget är rentav Stockholms innerstads högsta punkt och hör till Sofia församling.
@@ -207,7 +206,7 @@ När Danviks kanal invigdes 1929 var hela området omskapat och redo för stora 
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-22.jpg" alt="" />
-  <figcaption>*Flygbild över Danvikskanalen mot Saltsjön och Djurgården. Endast kyrkan med vårdsalarna återstår av hospitalet. Det syns tydligt vilken förändring som skett i landskapet. **Foto Oscar Bladh 1934. Stockholms stadsmuseum Fotonummer Fa 50713.*</figcaption>
+  <figcaption>\*Flygbild över Danvikskanalen mot Saltsjön och Djurgården. Endast kyrkan med vårdsalarna återstår av hospitalet. Det syns tydligt vilken förändring som skett i landskapet. \*\*Foto Oscar Bladh 1934. Stockholms stadsmuseum Fotonummer Fa 50713.\*</figcaption>
 </figure>
 
 Bygget av Danviks kanal tvingade fram en nödvändig förändring för hospitalet och vården av de gamla. Stiftelsen bakom Danvikens hospital sålde marken vid kanalen och sköt till egna medel. Den då kände arkitekten Aron Johansson fick i uppgift att rita ett nytt och modernt ålderdomshem. Han hade tidigare ritat stadshotell, järnvägsstationer och slutfört bygget av riksdagshuset. Flera kritiker skulle senare säga att hans tidigare byggen tyvärr återspeglade sig i det nya Danvikshem.
@@ -218,7 +217,7 @@ Danvikshem byggdes av firman Kreuger och Toll. Torsten Kreuger hade tagit hem de
 
 <figure>
   <img src="/assets/hsb/danvikens-hospital-dh-23-2048x1381.jpg" alt="" />
-  <figcaption>*Danvikshem 1937. Observera byggnaderna till höger som nu är rivna och ersatta av en gemensamhetslokal och seniorbostäder. Trädgårdsodlingar syns där Hvilans skola finns idag. **Fotograf Ahrenbergs flyg. Stockholms läns museum Flygbildssamlingen. FB-0049*</figcaption>
+  <figcaption>\*Danvikshem 1937. Observera byggnaderna till höger som nu är rivna och ersatta av en gemensamhetslokal och seniorbostäder. Trädgårdsodlingar syns där Hvilans skola finns idag. \*\*Fotograf Ahrenbergs flyg. Stockholms läns museum Flygbildssamlingen. FB-0049\*</figcaption>
 </figure>
 
 När det nya Danvikshem invigdes 1915 fanns det plats för lite fler än 300 pensionärer varav en del till och med bodde i enkelrum. Tidningarna kritiserade ofta bygget som lyxigt. Stockholmstidningen skrev att det var för påkostat och kallade det ett skandalhus och att det borde ha placerats mer i skymundan. Samma kritik hade tidigare riktats mot Konradsberg som byggdes för de sinnessjuka på Kungsholmen.
@@ -231,4 +230,4 @@ Med det nya huset kom förbättringar på många områden med för den tiden mod
 
 Den gamla kyrkobyggnaden på hospitalsområdet vid kanalen användes efter utrymningen som lager och verkstad och förföll kraftigt innan den övergavs och stod tom. Byggnaden har haft olika ägare och olika, mer eller mindre lyckade, renoveringar har genomförts. All gammal inredning är sedan länge borta. År 2021 såldes huvudbyggnaden på exekutiv auktion för 70 miljoner kronor till Gullringsbo egendomar som är ett fastighets- och förvaltningsbolag. De har renoverat ytterligare och använder i skrivande stund byggnaden emellanåt som konsthall.
 
-[**Janne Petersson**](mailto:janne.petersson3@gmail.com)
+**[Janne Petersson](mailto:janne.petersson3@gmail.com)**
