@@ -1,12 +1,12 @@
 backend:
   # Alternativ 1: Netlify Identity + Git Gateway (enkelt)
-  name: git-gateway
-  branch: main
+  # name: git-gateway
+  # branch: main
 
   # Alternativ 2: GitHub (kommentera in och uppdatera repo)
-  # name: github
-  # repo: <ditt_github_anv>/<ditt_repo>
-  # branch: main
+  name: github
+  repo: fabian-von-tiedemann/henriksborg-historia
+  branch: main
 
 site_url: /
 logo_url: /assets/hsb/logo.svg
