@@ -30,8 +30,11 @@ module.exports = function(eleventyConfig) {
     if (!images || !Array.isArray(images)) return '';
     
     return images.map(img => {
-      const imagePath = img.image || '';
-      const caption = img.caption || '';
+      const imageData = img.image_with_caption || {};
+      const imagePath = imageData.image || '';
+      const caption = imageData.caption || '';
+      
+      if (!imagePath) return '';
       
       return `
         <div class="image-container">

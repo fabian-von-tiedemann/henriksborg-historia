@@ -31,7 +31,8 @@ collections:
       - label: "Bilder med bildtexter"
         name: "images"
         widget: "list"
-        fields:
-          - { label: "Bild", name: "image", widget: "image" }
-          - { label: "Bildtext", name: "caption", widget: "string", hint: "Beskrivande text för bilden" }
+        field:
+          label: "Bild med bildtext"
+          name: "image_with_caption"
+          widget: "image-with-caption"
         hint: "Lägg till bilder med beskrivande texter"
