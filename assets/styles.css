@@ -72,14 +72,136 @@ main article {
 
 figure { 
   margin: 2.5rem 0; 
+  text-align: center;
 }
 
 figure img {
-  width: 100%;
-  height: auto;
   max-width: 100%;
+  height: auto;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+figure img:hover {
+  transform: scale(1.02);
+}
+
+/* Bildvisar-overlay */
+.image-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.9);
+  z-index: 1000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-overlay.active {
+  display: flex;
+}
+
+.overlay-content {
+  position: relative;
+  max-width: 90vw;
+  max-height: 90vh;
+  text-align: center;
+}
+
+.overlay-image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.overlay-caption {
+  color: white;
+  margin-top: 1rem;
+  font-size: 1rem;
+  font-style: italic;
+}
+
+/* Navigeringsknappar */
+.overlay-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  color: white;
+  font-size: 2rem;
+  padding: 1rem 0.5rem;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background 0.2s ease;
+}
+
+.overlay-nav:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.overlay-nav.prev {
+  left: -60px;
+}
+
+.overlay-nav.next {
+  right: -60px;
+}
+
+.overlay-close {
+  position: absolute;
+  top: -50px;
+  right: -50px;
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  cursor: pointer;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  transition: background 0.2s ease;
+}
+
+.overlay-close:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* Tumnaglar */
+.overlay-thumbnails {
+  position: absolute;
+  bottom: -80px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 0.5rem;
+  max-width: 80vw;
+  overflow-x: auto;
+  padding: 1rem;
+}
+
+.thumbnail {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 4px;
+  cursor: pointer;
+  opacity: 0.6;
+  transition: opacity 0.2s ease;
+  border: 2px solid transparent;
+}
+
+.thumbnail:hover,
+.thumbnail.active {
+  opacity: 1;
+  border-color: var(--accent);
 }
 
 figcaption { 

@@ -1,12 +1,9 @@
 backend:
-  # Alternativ 1: Netlify Identity + Git Gateway (enkelt)
   name: git-gateway
   branch: main
 
-  # Alternativ 2: GitHub (kommentera in och uppdatera repo)
-  # name: github
-  # repo: <ditt_github_anv>/<ditt_repo>
-  # branch: main
+# Netlify Identity-konfiguration
+local_backend: false
 
 site_url: /
 logo_url: /assets/hsb/logo.svg
@@ -28,4 +25,6 @@ collections:
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Permalänk", name: "permalink", widget: "string", default: "/{{slug}}/", hint: "Börja och sluta med /" }
       - { label: "Layout", name: "layout", widget: "string", default: "page" }
+      - { label: "Sammanfattning (för startsidan)", name: "excerpt", widget: "text", hint: "Kort beskrivning som visas på startsidan", required: false }
+      - { label: "Huvudbild", name: "featured_image", widget: "image", hint: "Bild som visas på startsidan", required: false }
       - { label: "Innehåll", name: "body", widget: "markdown" }

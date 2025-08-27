@@ -3,24 +3,28 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Henriksborg – Admin</title>
+    <title>Henriksborg – Autentisering</title>
   </head>
   <body>
-    <!-- Netlify Identity widget -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    
-    <!-- Decap CMS will mount here -->
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-    
     <script>
-      // Hantera Netlify Identity redirects
+      // Hantera auth callback
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {
-          if (!user) {
+          if (user) {
+            // Användaren är inloggad, redirecta till admin
+            window.location.href = "/admin/";
+          } else {
+            // Visa inloggningsformulär
             window.netlifyIdentity.open("login");
           }
         });
       }
     </script>
+    
+    <div style="text-align: center; padding: 50px;">
+      <h1>Autentisering...</h1>
+      <p>Väntar på inloggning...</p>
+    </div>
   </body>
-</html>
+</html> 

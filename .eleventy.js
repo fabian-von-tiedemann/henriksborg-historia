@@ -3,8 +3,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "assets": "assets" });
   eleventyConfig.addPassthroughCopy({ "admin": "admin" });
 
-  // Watch CSS for live reload
+  // Watch CSS and JS for live reload
   eleventyConfig.addWatchTarget("assets/styles.css");
+  eleventyConfig.addWatchTarget("assets/image-viewer.js");
 
   return {
     dir: {
