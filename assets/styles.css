@@ -73,15 +73,22 @@ main article {
 figure { 
   margin: 2.5rem 0; 
   text-align: center;
+  /* Begränsa figure till artikelbredden */
+  max-width: 100%;
+  overflow: hidden;
 }
 
 figure img {
   max-width: 100%;
+  width: auto;
   height: auto;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   cursor: pointer;
   transition: transform 0.2s ease;
+  /* Säkerställ att bilden inte går utanför figure */
+  display: block;
+  margin: 0 auto;
 }
 
 figure img:hover {
