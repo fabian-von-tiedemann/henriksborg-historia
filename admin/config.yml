@@ -1,18 +1,9 @@
 backend:
-  # Alternativ 1: Netlify Identity + Git Gateway (enkelt)
-  # name: git-gateway
-  # branch: main
-
-  # Alternativ 2: GitHub (kommentera in och uppdatera repo)
   name: github
   repo: fabian-von-tiedemann/henriksborg-historia
   branch: main
-
-# GitHub OAuth för att komma åt repository
-auth:
-  - name: github
-    client_id: ${GITHUB_CLIENT_ID}
-    client_secret: ${GITHUB_CLIENT_SECRET}
+  # Använd personal access token istället
+  # auth_endpoint: https://api.netlify.com/auth
 
 site_url: /
 logo_url: /assets/hsb/logo.svg
