@@ -70,6 +70,25 @@ main article {
   margin-bottom: 2rem;
 }
 
+/* Alla bilder i artiklar */
+main article img {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  /* Säkerställ att bilden inte går utanför artikelbredden */
+  display: block;
+  margin: 2rem auto;
+}
+
+main article img:hover {
+  transform: scale(1.02);
+}
+
+/* Behåll figure-stilarna för kompatibilitet */
 figure { 
   margin: 2.5rem 0; 
   text-align: center;

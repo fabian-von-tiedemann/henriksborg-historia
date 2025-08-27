@@ -61,8 +61,8 @@ class ImageViewer {
   }
 
   setupImageListeners() {
-    // Hitta alla bilder i artikeln
-    const articleImages = document.querySelectorAll('main article figure img');
+    // Hitta alla bilder i artikeln (både i figure och direkt)
+    const articleImages = document.querySelectorAll('main article img');
     
     articleImages.forEach((img, index) => {
       img.addEventListener('click', () => {
@@ -112,10 +112,23 @@ class ImageViewer {
     this.overlayImage.src = img.src;
     this.overlayImage.alt = img.alt;
     
-    // Hitta bildtext
+    // Hitta bildtext - kolla både figure/figcaption och efterföljande em-tag
+    let caption = '';
     const figure = img.closest('figure');
-    const figcaption = figure ? figure.querySelector('figcaption') : null;
-    this.overlayCaption.textContent = figcaption ? figcaption.textContent : '';
+    if (figure) {
+      const figcaption = figure.querySelector('figcaption');
+      if (figcaption) {
+        caption = figcaption.textContent;
+      }
+    } else {
+      // Om ingen figure, kolla efter efterföljande em-tag (kursiv text)
+      const nextElement = img.nextElementSibling;
+      if (nextElement && nextElement.tagName === 'EM') {
+        caption = nextElement.textContent;
+      }
+    }
+    
+    this.overlayCaption.textContent = caption;
     
     // Uppdatera tumnaglar
     this.updateThumbnails();
