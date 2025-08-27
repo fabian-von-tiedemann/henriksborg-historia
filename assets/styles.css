@@ -11,3 +11,132 @@ main article { background: rgba(255,255,255,.03); border:1px solid rgba(255,255,
 figure { margin:1.2rem 0; }
 figcaption { color: var(--muted); font-size:.95rem; }
 a { color:#9bb1ff; }
+
+/* Hero section */
+.hero {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding: 2rem 0;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  background: linear-gradient(135deg, #9bb1ff, #b8c0ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.ingress {
+  font-size: 1.2rem;
+  color: var(--muted);
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+/* Articles grid */
+.articles-grid h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: var(--muted);
+  font-size: 1.5rem;
+}
+
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+/* Card styles */
+.card {
+  background: rgba(255,255,255,.03);
+  border: 1px solid rgba(255,255,255,.08);
+  border-radius: 16px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  height: 100%;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(155, 177, 255, 0.3);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+}
+
+.card-image {
+  height: 200px;
+  overflow: hidden;
+  background: linear-gradient(135deg, rgba(155, 177, 255, 0.1), rgba(184, 192, 255, 0.1));
+}
+
+.card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.card:hover .card-image img {
+  transform: scale(1.05);
+}
+
+.placeholder-image {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, rgba(155, 177, 255, 0.1), rgba(184, 192, 255, 0.1));
+}
+
+.placeholder-image .icon {
+  font-size: 3rem;
+  opacity: 0.6;
+}
+
+.card-content {
+  padding: 1.5rem;
+}
+
+.card-title {
+  font-size: 1.3rem;
+  margin-bottom: 0.8rem;
+  color: var(--text);
+}
+
+.card-excerpt {
+  color: var(--muted);
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.card-link {
+  display: inline-block;
+  color: #9bb1ff;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.card-link:hover {
+  color: #b8c0ff;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2rem;
+  }
+  
+  .cards-container {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .card-content {
+    padding: 1.2rem;
+  }
+}

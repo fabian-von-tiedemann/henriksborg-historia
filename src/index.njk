@@ -3,12 +3,45 @@ layout: base
 title: "Henriksborg – historia & omgivning"
 ---
 
-<h1>Henriksborg – historia & omgivning</h1>
-<p>Välj en sida:</p>
-<ul>
-{% for item in collections.all | sort(attribute='url') %}
-  {% if item.data.layout == "page" %}
-    <li><a href="{{ item.url }}">{{ item.data.title or item.fileSlug }}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
+<div class="hero">
+  <h1>Henriksborg – historia & omgivning</h1>
+  <p class="ingress">
+    Upptäck den fascinerande historien om Henriksborg och dess omgivningar i Nacka. 
+    Från medeltida hospital till industrialisering och modern utveckling - 
+    här berättas historien om hur detta område förvandlades från en avkrok 
+    till en del av Stockholms växande storstadsregion.
+  </p>
+</div>
+
+<section class="articles-grid">
+  <h2>Artiklar om Henriksborgs historia</h2>
+  <div class="cards-container">
+    {% for item in collections.all | sort(attribute='url') %}
+      {% if item.data.layout == "page" %}
+        <article class="card">
+          <div class="card-image">
+            {% if item.data.featured_image %}
+              <img src="{{ item.data.featured_image }}" alt="{{ item.data.title }}" />
+            {% else %}
+              <div class="placeholder-image">
+                <span class="icon">📚</span>
+              </div>
+            {% endif %}
+          </div>
+          <div class="card-content">
+            <h3 class="card-title">{{ item.data.title or item.fileSlug | replace('_', ' ') | title }}</h3>
+            {% if item.data.excerpt %}
+              <p class="card-excerpt">{{ item.data.excerpt }}</p>
+            {% else %}
+              <p class="card-excerpt">
+                Läs mer om {{ item.data.title or item.fileSlug | replace('_', ' ') | lower }} 
+                och dess roll i Henriksborgs historia.
+              </p>
+            {% endif %}
+            <a href="{{ item.url }}" class="card-link">Läs mer →</a>
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>

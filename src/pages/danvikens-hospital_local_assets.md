@@ -2,6 +2,8 @@
 layout: page
 title: "Danvikens hospital"
 permalink: /danvikens-hospital/
+excerpt: "Gustav Vasas framsynta socialvård från 1500-talet som blev en skam under 1800-talet. Upptäck historien om Danvikens hospital och dess roll som Nackas mäktigaste jordägare."
+featured_image: "/assets/hsb/danvikens-hospital-dh-1.jpg"
 ---
 
 # Danvikens hospital
