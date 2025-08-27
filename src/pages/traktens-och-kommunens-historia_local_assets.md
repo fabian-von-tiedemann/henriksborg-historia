@@ -1,10 +1,9 @@
 ---
-layout: page
-title: "Traktens och kommunens historia￼￼"
+title: Traktens och kommunens historia
 permalink: /traktens-och-kommunens-historia/
+layout: page
 ---
-
-# Traktens och kommunens historia￼￼
+# Traktens och kommunens historia
 
 # Från vikingatid till dagens Nacka
 
@@ -12,7 +11,7 @@ permalink: /traktens-och-kommunens-historia/
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-1.jpg" alt="" />
-  <figcaption>*Rekonstruktion av Stockholmsrådets strandlinjer på stenåldern. Den blå pilen pekar på Henriksdalsberget – Henriksborgsklippan ligger under vatten. Holger Ellgaard 2009.*</figcaption>
+  <figcaption>\*Rekonstruktion av Stockholmsrådets strandlinjer på stenåldern. Den blå pilen pekar på Henriksdalsberget – Henriksborgsklippan ligger under vatten. Holger Ellgaard 2009.\*</figcaption>
 </figure>
 
 De första besökarna i det som idag är Nacka var troligen säljägare några tusen år före vår tideräkning. De utforskade, fiskade och jagade i en ogästvänlig ytterskärgård som skapades under den senaste istiden.
@@ -23,7 +22,7 @@ Så småningom höjde sig alltmer av det som skulle bli vår hembygd ur havet oc
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-2.jpg" alt="" />
-  <figcaption>**En silverskatt, sannolikt  från 1000-talet, hittades i Finnboda år 1735. Foto Sören Hallgren 1965. Muséet Hamn. Skatten finns nu på Historiska Muséet – men är inte utställd när detta skrivs.**</figcaption>
+  <figcaption>\*\*En silverskatt, sannolikt  från 1000-talet, hittades i Finnboda år 1735. Foto Sören Hallgren 1965. Muséet Hamn. Skatten finns nu på Historiska Muséet – men är inte utställd när detta skrivs.\*\*</figcaption>
 </figure>
 
 Senast under vikingatiden fanns boplatser och gravfält så nära Henriksborg som i Järla och vid Stora Sickla, ungefär där byggvaruhuset idag ligger. Då var det seglingsbart över vattendragen rakt österut från Sickla ända ut till  Baggensfjärden och dagens Saltsjöbaden. Det var alltså en snabbare och rakare väg till havet än genom Skurusundet norr om dagens Sicklaö. En av de största vikingaskatterna i länet hittades vid Finnboda.
@@ -34,7 +33,7 @@ Intill Kungshamn ligger Sveriges och Danmarks holmar – med oklar betydelse. Na
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-3.jpg" alt="" />
-  <figcaption>*Runsten från 1000-talet vid Väsby herrgård i Värmdö. Foto 2012 Riksantikvarieämbetet*</figcaption>
+  <figcaption>\*Runsten från 1000-talet vid Väsby herrgård i Värmdö. Foto 2012 Riksantikvarieämbetet\*</figcaption>
 </figure>
 
 För att försvara det rika Mälaren byggdes alltfler befästningar vid Norrström, norr om dagens Gamla stan. Så småningom grundades Stockholm av Birger jarl år 1252. Fientliga flottor från Estland och Karelen — men oftast danska, seglade förbi Sicklaön under angrepp mot staden. Namnet Danviken kan betyda danernas vik. Orsaken kan vara att den danske kungen, Kristian Tyrann, låg här med en flotta år 1520 i samband med Stockholms blodbad. På samma sätt tros Finnboda ha sitt ursprung i finska bosättningar. Kvarnholmen har, av samma skäl, hetat Finnsö, efter finländare och Hästholmen – efter hästhandlare från Estland.
@@ -43,14 +42,14 @@ Nacka var mycket glest befolkat under de kommande århundradena och Nacka och S�
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-4.jpg" alt="" />
-  <figcaption>*Danvikstull 1805. Danvikens hospital syns tydligt innanför Danviken. Även Fåfängan är utsatt. I den s.k. Tegelvikshamnen syns ett varv (idag Viking Line). Stadsarkivet.*</figcaption>
+  <figcaption>\*Danvikstull 1805. Danvikens hospital syns tydligt innanför Danviken. Även Fåfängan är utsatt. I den s.k. Tegelvikshamnen syns ett varv (idag Viking Line). Stadsarkivet.\*</figcaption>
 </figure>
 
 Ända fram till 1810 tog Stockholm upp tull av de vägfarande vid Danvikstull, stadens minsta tullstation på gränsen till dagens Nacka. Men det mesta av trafiken österifrån kom antingen sjövägen och passerade norr om Danvikstull eller gick vintertid över isarna, söder om Sicklaön. Från skärgården kunde man då med häst och släde färdas över isen från Duvnäsviken över Sicklasjön, Järlasjön och Hammarby sjö till Vintertullen, nedanför Sofia kyrka på Södermalm. Den sjövägen blev för grund för båttrafik senast på 1200-talet.
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-5-800.jpg" alt="" />
-  <figcaption>*Den stora kvarnbyggnaden med magasin vid Nacka ström. Kvarnbyggnaden är från 1873. Längst till vänster ses den gamla kvarngården. Oljemålning ca 1900. Nackas lokalhistoriska arkiv. *</figcaption>
+  <figcaption>\*Den stora kvarnbyggnaden med magasin vid Nacka ström. Kvarnbyggnaden är från 1873. Längst till vänster ses den gamla kvarngården. Oljemålning ca 1900. Nackas lokalhistoriska arkiv. \*</figcaption>
 </figure>
 
 Gustav Vasa påverkade Nacka mycket på 1500-talet och det började med Danvikens hospital – se särskild artikel.
@@ -63,14 +62,14 @@ På Sickla gård (där byggvaruhuset idag ligger) fanns på 1700-talet ett s.k. 
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-6.jpg" alt="" />
-  <figcaption>*Nacka tidigt 1900-tal. Lantmäteriet.*</figcaption>
+  <figcaption>\*Nacka tidigt 1900-tal. Lantmäteriet.\*</figcaption>
 </figure>
 
 Här ligger en del av Nackas tidiga industriminnen utefter Ältavägen mellan Hellasgården och Sickla. En del byggnader finns kvar. Den gamla kyrkan är borta – men kyrkogården är kvar. Vid vägen ligger också en stor gul byggnad med mycket snickarglädje som var bostadshus för anställda på Nacka Gård.
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-7-800.jpg" alt="" />
-  <figcaption>*Västra Sicklaön 1774.* *Hindricsdal syns till vänster om mitten. Stockholms stadsarkiv.*</figcaption>
+  <figcaption>\*Västra Sicklaön 1774.\* \*Hindricsdal syns till vänster om mitten. Stockholms stadsarkiv.\*</figcaption>
 </figure>
 
 Fler fabriker flyttade till eller grundades vid kusterna runt Henriksborg – här fanns inga bestämmelser som begränsade var fabrikerna byggdes eller vad de släppte ut. Tidigt kom en kimröksfabrik och flera beckbruk (bl.a. för att täta skepp). Men det var ont om odlingsbar mark mellan bergen vilket fördröjde befolkningstillväxten.
@@ -87,14 +86,14 @@ I början av 1800-talet bodde bara runt 200 personer på Sicklaön och då utgjo
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-8.jpg" alt="" />
-  <figcaption>*Issågning på Hammarby sjö. Längst bort skymtar hospitalet med kyrkan. Tavla av Ehrenfried Wahlqvist 1864. Stockholms stadsmuseum inventarienummer SSM 2424*</figcaption>
+  <figcaption>\*Issågning på Hammarby sjö. Längst bort skymtar hospitalet med kyrkan. Tavla av Ehrenfried Wahlqvist 1864. Stockholms stadsmuseum inventarienummer SSM 2424\*</figcaption>
 </figure>
 
 På Åsön, som senare blev Södermalm, växte bebyggelsen långsamt österut och nådde  Hammarby sjö, som in på 1900-talet ännu var en lantlig idyll. Här byggde den så kallade Skeppsbroadeln fina villor i Sicklatrakten. Allteftersom ångbåtarna började trafikera Nackas kuster växte exklusiva sommarvillor upp där också. Det var lagom avstånd från staden och samtidigt bra kommunikationer så framförallt familjefadern kunde resa fram och tillbaka till staden med båt.
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-9-800.jpg" alt="" />
-  <figcaption>*Runt 1890. Foto Carl Burman, Riksantikvarieämbetet.*</figcaption>
+  <figcaption>\*Runt 1890. Foto Carl Burman, Riksantikvarieämbetet.\*</figcaption>
 </figure>
 
 Bredare än så här var inte Hammarby sjö vid Danviksklippan i slutet av 1800-talet. Bakom Danvikens hospital syns nu Saltsjöqvarn som stod klar 1890. Från Folkungagatan på Södermalm följde man mindre gator tills man nådde Danvikens hospital längst in i viken. Vägen österut fortsätter runt Danviksklippan vid husen på bilden och ut mot Lugnet och Sickla. Den här vägen var smal och slingrig och sträckan kallades Danviks krokar.  Det sades att trakten var tillhåll för ”lösdrivare och annat slödder”, som ibland ställde till med överfall och slagsmål.
@@ -105,7 +104,7 @@ I Lugnet drev Per Filip Hierta (bror till Aftonbladets grundare) ett barnhem och
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-10.jpg" alt="" />
-  <figcaption>*Ungefär vid Bondegatans mynning runt 1890. Fotograf okänd. Stockholmskällan.*</figcaption>
+  <figcaption>\*Ungefär vid Bondegatans mynning runt 1890. Fotograf okänd. Stockholmskällan.\*</figcaption>
 </figure>
 
 På bryggorna runt Hammarby sjö slet kvinnorna med tvätt som Per Anders Fogelström skildrat i Mina drömmars stad. Här fanns också bryggor för roddarmadamernas båtar och de första små ångsluparna. Antingen tog stockholmarna på söndagarna en tur på Hammarby sjö, förlustade sig i Sickla som kallades Östra Söders pärla, eller for österut till t. ex. Nacka krog vid Nackanäs, som hade generösare utskänkningsregler än krogarna i stan. Trakterna österut var glest befolkade och ansågs lantliga, rofyllda och vackra.
@@ -114,7 +113,7 @@ Ut från staden sökte sig också stadens religiösa fritänkare (bland annat pi
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-11.jpg" alt="" />
-  <figcaption>*Finnboda (tidigare Finnebo) värdshus på vykort från 1903. Det blev senare personalmatsal i tre klasser för Finnboda varv. Fotograf okänd.*</figcaption>
+  <figcaption>\*Finnboda (tidigare Finnebo) värdshus på vykort från 1903. Det blev senare personalmatsal i tre klasser för Finnboda varv. Fotograf okänd.\*</figcaption>
 </figure>
 
 Vägarna i Nacka var länge smala, backiga, krokiga och leriga eller dammiga, beroende på vädret. Mycket av transporterna gick sjövägen och över isarna. Krogar och värdshus fanns det gott om för dem som seglade, rodde, gick eller tog sig fram med häst och vagn.
@@ -127,7 +126,7 @@ Krogarnas bästa kunder var de som reste till och från skärgården och havet. 
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-12-800.jpg" alt="" />
-  <figcaption>*Nacka gamla kapell/ kyrka revs i början av 1900-talet. Riksantikvarieämbetet. Fotograf okänd 1894*</figcaption>
+  <figcaption>\*Nacka gamla kapell/ kyrka revs i början av 1900-talet. Riksantikvarieämbetet. Fotograf okänd 1894\*</figcaption>
 </figure>
 
 Den första kyrkan i Nacka (om man inte räknar Erstaviks kapell) byggdes 1697 och var en väldigt enkel träkyrka.
@@ -138,7 +137,7 @@ Kyrkan vid Gamla Värmdövägen stod klar 1891.
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-13-800.jpg" alt="" />
-  <figcaption>*Danvikens begravningsplats Foto: Janne Petersson.*</figcaption>
+  <figcaption>\*Danvikens begravningsplats Foto: Janne Petersson.\*</figcaption>
 </figure>
 
 Begravningsplatsen mellan Kvarnholmsvägen och Danvikshem ersatte en äldre kyrkogård på Södermalmssidan vid Danvikstull från 1500-talet.
@@ -147,7 +146,7 @@ Danvikens hospital anlade kolera- och fattigkyrkogården 1834 då koleran grasse
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-14.jpg" alt="" />
-  <figcaption>*Vilans folkskola byggdes 1890 nedanför Danvikshem.. Bilden är tagen runt 1969 och fotografen är okänd. Nackas lokalhistoriska arkiv.*</figcaption>
+  <figcaption>\*Vilans folkskola byggdes 1890 nedanför Danvikshem.. Bilden är tagen runt 1969 och fotografen är okänd. Nackas lokalhistoriska arkiv.\*</figcaption>
 </figure>
 
 Nackas första skola fanns på Danvikens hospitalsområde redan 1683. Det var ett ”hittebarnhem”  för ”pilte- och pigebarn” som räddades från undergång och fick uppehälle. De fick lära sig läsa och kristendom och fick någon slags uppfostran. 1703 gick där 13 gossar och 3 flickor. Skolprästen Andreas Bredberg, som senare blev kyrkoherde, beskrev dem som: ”Usla, vankytta, av gatan upptagna, illa uppfostrade och vanartade barn, krymplingar och brottfällingar”.
@@ -158,7 +157,7 @@ Den röda skolan nedanför Danvikshem stod i 80 år innan den revs 1970. Då byg
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-15-800.jpg" alt="" />
-  <figcaption>* 1894 togs detta foto av en okänd fotograf. Nackas lokalhistoriska arkiv.*</figcaption>
+  <figcaption>\* 1894 togs detta foto av en okänd fotograf. Nackas lokalhistoriska arkiv.\*</figcaption>
 </figure>
 
 I den nybyggda Vilans skola togs detta klassfoto, som är det äldsta i Nackas lokalhistoriska arkiv. Här syns småskollärare V. Ahlgren.
@@ -167,14 +166,14 @@ I bildens mitt sitter en flicka med spetskrage och alldeles till vänster om hen
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-16-800.jpg" alt="" />
-  <figcaption>*Foto av Carl Curman sannolikt runt 1900. Riksantikvarieämbetet.*</figcaption>
+  <figcaption>\*Foto av Carl Curman sannolikt runt 1900. Riksantikvarieämbetet.\*</figcaption>
 </figure>
 
 I slutet av 1800-talet växte industrierna upp på Sicklaön. Här syns Saltsjöqvarn. Bilden är tagen från Fåfängan och i framkant syns några byggnader som tillhör Danvikens hospital. Kyrktornet sticker upp och det hörde till den enda byggnad som idag står kvar.
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-17.jpg" alt="" />
-  <figcaption>*Utsikt från Waldemarsudde mot Nacka 1906–1907. Bilden är tagen en tidig sommarmorgon från prinsens sovrum. Fotograf Prins Eugen. Prins Eugens Waldemarsudde KE9/43.*</figcaption>
+  <figcaption>\*Utsikt från Waldemarsudde mot Nacka 1906–1907. Bilden är tagen en tidig sommarmorgon från prinsens sovrum. Fotograf Prins Eugen. Prins Eugens Waldemarsudde KE9/43.\*</figcaption>
 </figure>
 
 Här syns siluetten av den nybyggda linoljefabriken uppe på Henriksborg, där radhusen idag ligger. Saltsjöqvarn skymtar snett nedanför i diset och röken. Segelfartyget i förgrunden ros ut för att få bättre vind.
@@ -185,7 +184,7 @@ Så sent som på 1890-talet var Nacka fortfarande en jordbruksbygd med liten bef
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-18.jpg" alt="" />
-  <figcaption>*Stadsgårdens station i början av 1900-talet innan tågen gick ända in till Slussen. **Sjöhistoriska muséet. Okänd fotograf.*</figcaption>
+  <figcaption>\*Stadsgårdens station i början av 1900-talet innan tågen gick ända in till Slussen. \*\*Sjöhistoriska muséet. Okänd fotograf.\*</figcaption>
 </figure>
 
 Det var Knut Wallenberg som skapade Saltsjöbaden efter amerikansk förebild. Namnet skulle vara säljande och det skapades efterhand flera namn på samma sätt: Saltsjö-Boo, Saltsjö-Duvnäs, Saltsjö-Järla.  HSB, som byggde radhusen på Henriksborg, försökte långt senare få igenom namnet Saltsjöblick. Men kommunfullmäktige slog bakut.
@@ -198,14 +197,14 @@ Utefter Saltsjöbanan växte enkla kåkstäder upp i Sickla och längre ut finar
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-19.jpg" alt="" />
-  <figcaption>*Den första bron för Saltsjöbanan vid Danviken 1908. Under bron syns entrén till Danvikens hospital. Fotograf okänd. Spårvägsmuseet (1–3162), *</figcaption>
+  <figcaption>\*Den första bron för Saltsjöbanan vid Danviken 1908. Under bron syns entrén till Danvikens hospital. Fotograf okänd. Spårvägsmuseet (1–3162), \*</figcaption>
 </figure>
 
 När Saltsjöbanan byggdes skar den rakt genom berget vid Danviksklippan – men vägen gick länge i sina gamla krokar runt klippan. Här syns ingången till Danvikens hospital mitt i bilden under den nybyggda Saltsjöbanan.
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-20.jpg" alt="" />
-  <figcaption>*Den nybyggda järnvägsbron vid Danvikens hospital 1896. Fotograf *okänd. *Stockholms stadsmuseum. Fotonummer Fa 7121.*</figcaption>
+  <figcaption>\*Den nybyggda järnvägsbron vid Danvikens hospital 1896. Fotograf \*okänd. \*Stockholms stadsmuseum. Fotonummer Fa 7121.\*</figcaption>
 </figure>
 
 Ut ur bilden ringlar sig Danviks krokar runt Danviksklippan och vidare mot Värmdö. Häst och vagn är på väg in mot staden. I mitten av bilden, under bron, syns vatternkvarnen på Danvikens Hospitals område. Den var byggd ovanpå det lilla vattenfall som kallades Danvikens rännil. Trettio år senare löper Danvikskanalen fram här.
@@ -214,28 +213,28 @@ Bakom kvarnen syns det så kallade Bagarberget och bakom det ligger Henriksborgs
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-21.jpg" alt="" />
-  <figcaption>*1896. Stockholms stadsmuseum Fotonummer Fa 48195; C 1552, Okänd fotograf. *</figcaption>
+  <figcaption>\*1896. Stockholms stadsmuseum Fotonummer Fa 48195; C 1552, Okänd fotograf. \*</figcaption>
 </figure>
 
 Bilden visar den nybyggda Saltsjöbanan från Södermalm, som går över hospitalsområdet och skär genom Danviksklippan. Vid horisonten, till vänster om Fåfängan, syns Sofia kyrka i Vita bergen. Nere till vänster ligger Lars Johan Hiertas stearinfabrik. Men ännu går vägen utåt Nacka runt Danviksklippan.
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-22-800.jpg" alt="" />
-  <figcaption>*Vid ingången till Danvikstull runt sekelskiftet 1900. Fotograf okänd. Stadsmuséets samlingar.*</figcaption>
+  <figcaption>\*Vid ingången till Danvikstull runt sekelskiftet 1900. Fotograf okänd. Stadsmuséets samlingar.\*</figcaption>
 </figure>
 
 Här står fotografen under järnvägsbron med ryggen mot Danvikens hospital – rakt över det som idag är Danvikskanalen. Uppe i bildens högerkant syns en bit av järnvägsbron. I högerkanten syns Danviksgatan, som på Södermalm ansluter till Folkungagatan. Till  vänster slingrar sig vägen runt Danviksklippan utefter den igenvuxna lilla Hammarby sjö. Sträckan kallades med rätta Danviks krokar. Nu syns fabriksskorstenar på södermalmssidan. Närmast ligger Liljeholmens stearinfabrik där ”Det vita huset”  idag ligger och skorstenen längst till vänster borde vara Barnängens fabriker. Sofia kyrka skymtar över taken. Det  lilla, mörka huset som syns i högerkant, kan vara det före detta tullhuset som då inte hade varit i bruk sedan 1800-talets början.
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-23.jpg" alt="" />
-  <figcaption>*Runt 1893. Järnvägsmuséet KBEB02441. Fotograf Axel Lindahl.*</figcaption>
+  <figcaption>\*Runt 1893. Järnvägsmuséet KBEB02441. Fotograf Axel Lindahl.\*</figcaption>
 </figure>
 
 Här håller Saltsjöbanan på att byggas och vi ser tunnelmynningen under Henriksdalsberget ut mot Nacka. Vägen österut mot Skuru var inte bred och gick uppför backarna förbi Finntorp.
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-24-800.jpg" alt="" />
-  <figcaption>*Finnboda varvs ledning 1895. I mitten på första raden sitter varvets direktör Kurt von Schmalensée som var mycket inflytelserik i kommunen runt sekelskiftet 1900. Foto J. David Levallois. Centrum för Näringslivshistoria.*</figcaption>
+  <figcaption>\*Finnboda varvs ledning 1895. I mitten på första raden sitter varvets direktör Kurt von Schmalensée som var mycket inflytelserik i kommunen runt sekelskiftet 1900. Foto J. David Levallois. Centrum för Näringslivshistoria.\*</figcaption>
 </figure>
 
 För att få rösta kommunalt krävdes länge en stor inkomst och det gällde bara män och ogifta kvinnor. Från 1901 kunde en person eller ett enda bolag ha upp till 5 000 röster i kommunalvalet. Några år senare sänktes gränsen till 40 röster och då fick även gifta kvinnor med hög inkomst rösta.
@@ -246,7 +245,7 @@ Innan Nacka anställde sin första kommunalkamrer 1900 sköttes bokföringen til
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-25-800.jpg" alt="" />
-  <figcaption>*Atlas Diesel i Sickla 1938. I bakgrunden Svindersviken och Kvarnholmen. Foto Atlas Diesel. Nacka lokalhistoriska arkiv. *</figcaption>
+  <figcaption>\*Atlas Diesel i Sickla 1938. I bakgrunden Svindersviken och Kvarnholmen. Foto Atlas Diesel. Nacka lokalhistoriska arkiv. \*</figcaption>
 </figure>
 
 I Sicklaområdet, utefter Saltsjöbanan, etablerade sig De Lavals Ångturbiner och Diesels Motorfabrik som blev Atlas Copco. I Augustendal (nuvarande Nacka Strand) tillverkades motorer och monterades bilar.
@@ -257,7 +256,7 @@ Bebyggelsen i Nacka var från början tydligt uppdelad i, ofta exklusiva, villao
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-26-800.jpg" alt="" />
-  <figcaption>*Nackas första kommunhus, på Lindvägen 13 i Storängen Vykort från 1910. Nacka lokalhistoriska arkiv.*</figcaption>
+  <figcaption>\*Nackas första kommunhus, på Lindvägen 13 i Storängen Vykort från 1910. Nacka lokalhistoriska arkiv.\*</figcaption>
 </figure>
 
 Länge gick det mesta av kommunens blygsamma utgifter till fattigvården. Med tiden blev också utgifterna för skolan stora. Ofta kom klagomål på de rallare som byggde Saltsjöbanan – de anklagades för ”ständiga olagligheter, uppträden och grövre oskick” som kommunen försökte stävja med förbud mot att sälja alkohol i vissa butiker.
@@ -268,7 +267,7 @@ Kommunen fick sin första tjänsteman 1909 då en kommunalkamrer anställdes. N�
 
 <figure>
   <img src="/assets/hsb/traktens-och-kommunens-historia-historia-27-800.jpg" alt="" />
-  <figcaption>*Sickla industriområde med Finntorp i bakgrunden – idag köpcentrum. Foto Erik Claesson 1967. Riksantikvarieämbetet.*</figcaption>
+  <figcaption>\*Sickla industriområde med Finntorp i bakgrunden – idag köpcentrum. Foto Erik Claesson 1967. Riksantikvarieämbetet.\*</figcaption>
 </figure>
 
 När Nacka bildades 1889 var kommunen dubbelt så stor till ytan som dåvarande Stockholm. Huvudstaden har sedan dess vuxit genom inkorporeringar och försök gjordes alltså att få delar eller hela Nacka att ingå i Stockholm. Men det stannade vid områdena runt Hammarby sjö. Det självständiga Nacka är idag ändå en del av Storstockholm.
