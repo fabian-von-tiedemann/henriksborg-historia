@@ -1,14 +1,6 @@
 backend:
-  name: github
-  repo: fabian-von-tiedemann/henriksborg-historia
+  name: git-gateway
   branch: main
-  base_url: https://henriksborg.netlify.app
-
-# Explicit OAuth-konfiguration
-oauth:
-  client_id: ${GITHUB_CLIENT_ID}
-  client_secret: ${GITHUB_CLIENT_SECRET}
-  redirect_uri: https://henriksborg.netlify.app/admin/
 
 site_url: /
 logo_url: /assets/hsb/logo.svg
