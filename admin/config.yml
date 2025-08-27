@@ -2,8 +2,6 @@ backend:
   name: github
   repo: fabian-von-tiedemann/henriksborg-historia
   branch: main
-  # Använd personal access token istället
-  # auth_endpoint: https://api.netlify.com/auth
 
 site_url: /
 logo_url: /assets/hsb/logo.svg
