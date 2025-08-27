@@ -14,8 +14,4 @@
   to = "/admin/auth.html"
   status = 200
 
-# Handle Netlify Identity callbacks
-[[redirects]]
-  from = "/.netlify/identity"
-  to = "/.netlify/identity"
-  status = 200
+
