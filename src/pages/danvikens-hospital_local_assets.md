@@ -15,10 +15,6 @@ featured_image: /assets/hsb/danvikens-hospital-dh-1.jpg
 
 ![Danvikshem från Djurgården. Kvarnen till höger står där Fåfängan idag ligger. Akvarell av Georg Albert Muller 1860. Stockholms stadsmuseum 501337](/assets/hsb/danvikens-hospital-dh-1.jpg)
 
-![Testtext, dyker den upp under bilden?](/assets/hsb/danvikens-hospital-dh-10.jpg "TITLE")
-
-
-
 *Danvikshem från Djurgården. Kvarnen till höger står där Fåfängan idag ligger. Akvarell av Georg Albert Muller 1860. Stockholms stadsmuseum 501337*
 
 Kung Gustav Vasa är den som har påverkat västra Sicklaön i nuvarande Nacka mest. Han ville på 1500-talet få bort de sjuka, fattiga och gamla från det nedlagda Gråmunkeklostret på Riddarholmen till Danviken. Kungen beskrev Hospitalet på Helgeandsholmen som en smittkälla och ansåg att det spred dålig lukt. Han skrev att de som var sjuka i spetälska tvättade sig själva och sina besmittade kläder i vattnet som sedan flöt runt staden och slottet. Enligt kungens brev spreds en ”mäktig och ond stank”.
