@@ -16,32 +16,46 @@ title: "Henriksborg – historia & omgivning"
 <section class="articles-grid">
   <h2>Artiklar om Henriksborgs historia</h2>
   <div class="cards-container">
-    {% for item in collections.all | sort(attribute='url') %}
-      {% if item.data.layout == "page" %}
-        <article class="card">
-          <div class="card-image">
-            {% if item.data.featured_image %}
-              <img src="{{ item.data.featured_image }}" alt="{{ item.data.title }}" />
-            {% else %}
-              <div class="placeholder-image">
-                <span class="icon">📚</span>
-              </div>
-            {% endif %}
-          </div>
-          <div class="card-content">
-            <h3 class="card-title">{{ item.data.title or item.fileSlug | replace('_', ' ') | title }}</h3>
-            {% if item.data.excerpt %}
-              <p class="card-excerpt">{{ item.data.excerpt }}</p>
-            {% else %}
-              <p class="card-excerpt">
-                Läs mer om {{ item.data.title or item.fileSlug | replace('_', ' ') | lower }} 
-                och dess roll i Henriksborgs historia.
-              </p>
-            {% endif %}
-            <a href="{{ item.url }}" class="card-link">Läs mer →</a>
-          </div>
-        </article>
-      {% endif %}
+    {% set order = [
+      "/hsb-och-bygget/",
+      "/saltsjoqvarn/",
+      "/industrialiseringen/",
+      "/hammarby-sjo/",
+      "/traktens-och-kommunens-historia/",
+      "/finnboda-varv/",
+      "/danvikens-hospital/",
+      "/kvarnholmen-och-svindersviken/"
+    ] %}
+
+    {# Render cards in the specified order #}
+    {% for link in order %}
+      {% for item in collections.all %}
+        {% if item.url == link and item.data.layout == "page" %}
+          <article class="card">
+            <div class="card-image">
+              {% if item.data.featured_image %}
+                <img src="{{ item.data.featured_image }}" alt="{{ item.data.title }}" />
+              {% else %}
+                <div class="placeholder-image">
+                  <span class="icon">📚</span>
+                </div>
+              {% endif %}
+            </div>
+            <div class="card-content">
+              <h3 class="card-title">{{ item.data.title or item.fileSlug | replace('_', ' ') | title }}</h3>
+              {% if item.data.excerpt %}
+                <p class="card-excerpt">{{ item.data.excerpt }}</p>
+              {% else %}
+                <p class="card-excerpt">
+                  Läs mer om {{ item.data.title or item.fileSlug | replace('_', ' ') | lower }} 
+                  och dess roll i Henriksborgs historia.
+                </p>
+              {% endif %}
+              <a href="{{ item.url }}" class="card-link">Läs mer →</a>
+            </div>
+          </article>
+        {% endif %}
+      {% endfor %}
     {% endfor %}
   </div>
 </section>
