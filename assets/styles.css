@@ -63,7 +63,7 @@ header {
 }
 
 .logo { 
-  height: 40px; 
+  height: 28px; 
   width: auto; 
   display: block; 
 }
@@ -71,6 +71,7 @@ header {
 /* No hover frame/border for logo link */
 .brand:hover { 
   background: transparent; 
+  border-bottom: none;
 }
 
 /* Link pills container */
@@ -88,7 +89,7 @@ header {
   border: 0; 
   color: var(--text); 
   border-radius: 0; 
-  padding: 0 0.35rem; 
+  padding: 0 0.25rem; 
   font-size: 0.8rem;
   line-height: 1;
   margin: 0;
@@ -699,6 +700,6 @@ main article blockquote {
   }
 
   .logo {
-    height: 32px;
+    height: 24px;
   }
 }
