@@ -3,7 +3,8 @@
   "private": true,
   "scripts": {
     "dev": "eleventy --serve",
-    "build": "eleventy"
+    "prebuild": "python3 -c \"import PIL\" 2>/dev/null || pip3 install --quiet pillow; python3 tools/generate_social_images.py; python3 tools/build_gallery_json.py",
+    "build": "npm run prebuild && eleventy"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
