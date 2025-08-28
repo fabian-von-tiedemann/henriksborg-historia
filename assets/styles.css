@@ -87,8 +87,9 @@ header {
   border: 1px solid var(--border); 
   color: var(--text); 
   border-radius: 999px; 
-  padding: 0.3rem 0.7rem; 
-  font-size: 0.9rem;
+  padding: 0.22rem 0.6rem; 
+  font-size: 0.85rem;
+  line-height: 1.2;
 }
 
 .pill:hover { 
@@ -98,9 +99,9 @@ header {
 }
 
 .pill.active { 
-  background: #e0e7ff; 
-  border-color: var(--accent); 
-  color: var(--text); 
+  background: var(--text); 
+  border-color: var(--text); 
+  color: #fff; 
 }
 
 .container { 
