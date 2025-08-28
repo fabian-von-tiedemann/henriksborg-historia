@@ -31,10 +31,21 @@ title: "Henriksborg – historia & omgivning"
     {% for link in order %}
       {% for item in collections.all %}
         {% if item.url == link and item.data.layout == "page" %}
-          <article class="card">
+          <a class="card card-link-block" href="{{ item.url }}" aria-label="Läs mer: {{ item.data.title or item.fileSlug | replace('_', ' ') | title }}">
+            {% set featured_fallbacks = {
+              '/hsb-och-bygget/': '/assets/hsb/hsb-och-bygget-hb-boken-kap-1-bild-1.jpg',
+              '/saltsjoqvarn/': '/assets/hsb/saltsjoqvarn-sq-3.jpg',
+              '/industrialiseringen/': '/assets/hsb/industrialiseringen-ind-3-2048x1569.jpg',
+              '/hammarby-sjo/': '/assets/hsb/hammarby-sjo-hsjo-13-2048x1452.jpg',
+              '/traktens-och-kommunens-historia/': '/assets/hsb/traktens-och-kommunens-historia-historia-1.jpg',
+              '/finnboda-varv/': '/assets/hsb/finnboda-varv-finn-1.jpg',
+              '/danvikens-hospital/': '/assets/hsb/danvikens-hospital-dh-1.jpg',
+              '/kvarnholmen-och-svindersviken/': '/assets/hsb/kvarnholmen-och-svindersviken-kvh-1.jpg'
+            } %}
+            {% set img_src = item.data.featured_image or featured_fallbacks[item.url] %}
             <div class="card-image">
-              {% if item.data.featured_image %}
-                <img src="{{ item.data.featured_image }}" alt="{{ item.data.title }}" />
+              {% if img_src %}
+                <img src="{{ img_src }}" alt="{{ item.data.title or item.fileSlug | replace('_', ' ') | title }}" />
               {% else %}
                 <div class="placeholder-image">
                   <span class="icon">📚</span>
@@ -43,17 +54,22 @@ title: "Henriksborg – historia & omgivning"
             </div>
             <div class="card-content">
               <h3 class="card-title">{{ item.data.title or item.fileSlug | replace('_', ' ') | title }}</h3>
-              {% if item.data.excerpt %}
-                <p class="card-excerpt">{{ item.data.excerpt }}</p>
-              {% else %}
-                <p class="card-excerpt">
-                  Läs mer om {{ item.data.title or item.fileSlug | replace('_', ' ') | lower }} 
-                  och dess roll i Henriksborgs historia.
-                </p>
+              {% set default_excerpts = {
+                '/hsb-och-bygget/': 'HSB:s radhusplaner, övre fabriken och hur klippan förvandlades.',
+                '/saltsjoqvarn/': 'Från ståtlig kvarn till hotell och bostäder vid Saltsjön.',
+                '/industrialiseringen/': 'Smutsiga industrier, elens intåg och fabriker kring Henriksborg.',
+                '/hammarby-sjo/': 'När Danviks rännil blev kanal och Stockholm förändrades.',
+                '/traktens-och-kommunens-historia/': 'Från vikingatid till dagens Nacka – en snabb översikt.',
+                '/finnboda-varv/': 'Varvsepoken vid Finnboda – fartyg, bränder och förändring.',
+                '/danvikens-hospital/': 'Hospitalet som präglade trakten i århundraden.',
+                '/kvarnholmen-och-svindersviken/': 'Kvarnholmen och Svindersviken – industri och stadsomvandling.'
+              } %}
+              {% set excerpt_text = item.data.excerpt or default_excerpts[item.url] %}
+              {% if excerpt_text %}
+                <p class="card-excerpt">{{ excerpt_text }}</p>
               {% endif %}
-              <a href="{{ item.url }}" class="card-link">Läs mer →</a>
             </div>
-          </article>
+          </a>
         {% endif %}
       {% endfor %}
     {% endfor %}

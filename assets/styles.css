@@ -68,6 +68,11 @@ header {
   display: block; 
 }
 
+/* No hover frame/border for logo link */
+.brand:hover { 
+  background: transparent; 
+}
+
 /* Link pills container */
 .nav-links { 
   display: flex; 
@@ -82,11 +87,18 @@ header {
   border: 1px solid var(--border); 
   color: var(--text); 
   border-radius: 999px; 
-  padding: 0.4rem 0.9rem; 
+  padding: 0.3rem 0.7rem; 
+  font-size: 0.9rem;
 }
 
 .pill:hover { 
   background: #eef2ff; 
+  border-color: var(--accent); 
+  color: var(--text); 
+}
+
+.pill.active { 
+  background: #e0e7ff; 
   border-color: var(--accent); 
   color: var(--text); 
 }
@@ -478,6 +490,19 @@ a:hover {
   transform: translateY(-4px);
   border-color: var(--accent);
   box-shadow: 0 20px 25px rgba(0,0,0,0.1);
+}
+
+/* Make the whole card clickable without default underline */
+.card-link-block {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  border: none;
+}
+
+.card-link-block:hover {
+  text-decoration: none;
+  border: none;
 }
 
 .card-image {
