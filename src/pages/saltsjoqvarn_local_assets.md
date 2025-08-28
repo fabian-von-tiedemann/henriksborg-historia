@@ -12,21 +12,15 @@ Industrihistoria som blev hotell
 
 **Saltsjöqvarn var i många år en av landets ledande kvarnar och ett landmärke för sjöfarten – besjungen av Evert Taube. Byggd i slutet av 1800-talet i den tidens nästan slottsmässiga stil lades den ned hundra år senare – offrad på rationaliseringarnas altare och återuppstånden som hotell och bostäder när de bästa sjölägena bebyggdes. **
 
-![Ur en broschyr från Kejsarkronan från 1950- eller 1960-talet.](/assets/hsb/saltsjoqvarn-sq-1.jpg)
+![Ur en broschyr från Kejsarkronan från 1950- eller 1960-talet.](/assets/hsb/saltsjoqvarn-sq-1.jpg) *Ur en broschyr från Kejsarkronan från 1950- eller 1960-talet.*
 
-*Ur en broschyr från Kejsarkronan från 1950- eller 1960-talet.*
-
-![Saltsjöqvarn från sydväst runt 1890 och närmast syns byggnader vid Danvikens hospital. Stockholms läns museum. ID LX99-0035. Fotograf Anton Blomberg.](/assets/hsb/saltsjoqvarn-sq-2-2048x1558.jpg)
-
-*Saltsjöqvarn från sydväst runt 1890 och närmast syns byggnader vid Danvikens hospital. Stockholms läns museum. ID LX99-0035. Fotograf Anton Blomberg.*
+![Saltsjöqvarn från sydväst runt 1890 och närmast syns byggnader vid Danvikens hospital. Stockholms läns museum. ID LX99-0035. Fotograf Anton Blomberg.](/assets/hsb/saltsjoqvarn-sq-2-2048x1558.jpg) *Saltsjöqvarn från sydväst runt 1890 och närmast syns byggnader vid Danvikens hospital. Stockholms läns museum. ID LX99-0035. Fotograf Anton Blomberg.*
 
 Här vid Saltsjön kunde stora, djupgående skepp redan 1890 lossa sin laster med säd till den nybyggda kvarnen som gavs namnet Saltsjöqvarn. Ägarna Holmberg och Möller hade tidigare malt säd vid små väder- och vattenkvarnar som Nacka kvarn vid Nacka ström. Men med ångkraft, och från 1916 elektricitet, behövde man inte vattenfall eller vindkraft och kapaciteten mångdubblades.
 
 Industribyggnaderna skulle vara ståtliga och imponerande som ett slags varumärke. Senare under funktionalismen skulle det synas att det var en fabrik.
 
-![Saltsjöqvarn runt 1900 från Fåfängan. Linoljefabriken på Henriksborgsklippan är nu byggd och skymtar högst upp liksom skorstenen till Rylanders fabrik längst till höger. Ännu är Hammarby kanal inte byggd utan hospitalets byggnader ligger i högerkant av fotot. Stadsmuséet. Bildnummer C 1867. CC: License: BY  Unikt dokument ID: SSMC001867. Fotograf okänd.](/assets/hsb/saltsjoqvarn-sq-3.jpg)
-
-*Saltsjöqvarn runt 1900 från Fåfängan. Linoljefabriken på Henriksborgsklippan är nu byggd och skymtar högst upp liksom skorstenen till Rylanders fabrik längst till höger. Ännu är Hammarby kanal inte byggd utan hospitalets byggnader ligger i högerkant av fotot. Stadsmuséet. Bildnummer C 1867. CC: License: BY  Unikt dokument ID: SSMC001867. Fotograf okänd.*
+![Saltsjöqvarn runt 1900 från Fåfängan. Linoljefabriken på Henriksborgsklippan är nu byggd och skymtar högst upp liksom skorstenen till Rylanders fabrik längst till höger. Ännu är Hammarby kanal inte byggd utan hospitalets byggnader ligger i högerkant av fotot. Stadsmuséet. Bildnummer C 1867. CC: License: BY  Unikt dokument ID: SSMC001867. Fotograf okänd.](/assets/hsb/saltsjoqvarn-sq-3.jpg) *Saltsjöqvarn runt 1900 från Fåfängan. Linoljefabriken på Henriksborgsklippan är nu byggd och skymtar högst upp liksom skorstenen till Rylanders fabrik längst till höger. Ännu är Hammarby kanal inte byggd utan hospitalets byggnader ligger i högerkant av fotot. Stadsmuséet. Bildnummer C 1867. CC: License: BY  Unikt dokument ID: SSMC001867. Fotograf okänd.*
 
 Runt mitten av 1800-talet låg Stockholm efter Göteborg i industriell utveckling. Tidigare hade det på denna del av Sicklaön funnits beckbruk och tjärsjuderi. Men på 1870-talet grundandes den moderna superfosfatfabriken i Gäddviken och Finnboda slip startade. Saltsjön var ett bra läge för transporter  – men det handlade också om stigande tomtpriser inne i Stockholm och miljöfarliga industrier kunde utan hinder etablera sig här.
 
@@ -34,61 +28,43 @@ Runt 1900 fanns både AB Saltsjöqvarn (namnet togs 1902) vid Danviken och kvarn
 
 Nu byggdes också Engelska Ångsågen på kajen bortanför Saltsjöqvarn. Där lossades timmer för tillverkning av cigarrlådor till de flesta cigarrfabriker i landet.
 
-![Foto runt 1900. A/B Saltsjöqvarn genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-4.jpg)
-
-*Foto runt 1900. A/B Saltsjöqvarn genom Kjell Eklund.*
+![Foto runt 1900. A/B Saltsjöqvarn genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-4.jpg) *Foto runt 1900. A/B Saltsjöqvarn genom Kjell Eklund.*
 
 I början fanns det i kvarnen både gamla kvarnstenar och nya så kallade valsstolar, utan kvarnstenar. Till vänster syns ett runt kar i ljust trä som innehåller två kvarnstenar – längre in i bilden ser man modernare valskvarnar.  För att få spåren i den övre kvarnstenen skarpa in mot hålet i mitten hackar och skärper man dem, som på bilden.
 
-![Några år in på 1900-talet. Foto A/B Saltsjöqvarn genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-5.jpg)
-
-*Några år in på 1900-talet. Foto A/B Saltsjöqvarn genom Kjell Eklund.*
+![Några år in på 1900-talet. Foto A/B Saltsjöqvarn genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-5.jpg) *Några år in på 1900-talet. Foto A/B Saltsjöqvarn genom Kjell Eklund.*
 
 Detta är den äldsta bilden på de tidigaste valsstolarna som ersatta kvarnstenarna.  Den till vänster konstruerades redan på 1880-talet. Nu kunde man göra ett vitare och mera finsiktat mjöl med mindre mängd kli i valskvarna, i stället för den flertusenåriga tekniken med kvarnstenar. Valsarna kunde vara räfflade eller släta, tryck och vinkel kunde anpassas, med mera. Mjölet passerade olika valsar och efter 20 minuter hade 80 procent av ett sädeskorn blivit till mjöl.
 
 Denna våning kallades valsbotten och är idag en trappa upp i hotellet.
 
-![Foto 1896. A/B Saltsjöqvarn genom Kjell Eklund. Okänd fotograf.](/assets/hsb/saltsjoqvarn-sq-6.jpg)
-
-*Foto 1896. A/B Saltsjöqvarn genom Kjell Eklund. Okänd fotograf.*
+![Foto 1896. A/B Saltsjöqvarn genom Kjell Eklund. Okänd fotograf.](/assets/hsb/saltsjoqvarn-sq-6.jpg) *Foto 1896. A/B Saltsjöqvarn genom Kjell Eklund. Okänd fotograf.*
 
 Till att börja med kördes det färdigmalna mjölet till kunder och järnvägen vid Södra station på Södermalm med häst och vagn.
 
-![Saltsjöqvarns stall 1896. Foto A/B Saltsjöqvarn genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-7.jpg)
-
-*Saltsjöqvarns stall 1896. Foto A/B Saltsjöqvarn genom Kjell Eklund.*
+![Saltsjöqvarns stall 1896. Foto A/B Saltsjöqvarn genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-7.jpg) *Saltsjöqvarns stall 1896. Foto A/B Saltsjöqvarn genom Kjell Eklund.*
 
 Till kvarnen hörde ett stall med plats för många hästar. Här syns kuskar, spiltor och seldon, vakthund och en stallbagge som åt det som hästarna lämnade. På fabriken fanns från början bara ångkraft – ingen elektricitet. Därför hänger en fotogenlampa i taket.
 
-![Cereallaboratoriet 1910. Public Domain, Fotograf Gunnar Molin.](/assets/hsb/saltsjoqvarn-sq-8.jpg)
-
-*Cereallaboratoriet 1910. Public Domain, Fotograf Gunnar Molin.*
+![Cereallaboratoriet 1910. Public Domain, Fotograf Gunnar Molin.](/assets/hsb/saltsjoqvarn-sq-8.jpg) *Cereallaboratoriet 1910. Public Domain, Fotograf Gunnar Molin.*
 
 Saltsjöqvarn var mån om sitt anseende och mjölets kvalitet och invigde 1909 nordens första laboratorium för att analysera både den levererade spannmålen och för att utveckla och testa de färdiga mjölerna.
 
-![Foto A/B Saltsjöqvarn genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-9.jpg)
-
-*Foto A/B Saltsjöqvarn genom Kjell Eklund.*
+![Foto A/B Saltsjöqvarn genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-9.jpg) *Foto A/B Saltsjöqvarn genom Kjell Eklund.*
 
 På 1920-talet hade man fina vita arbetskläder och skärmmössa när mjölet packades.
 
-![Foto A/B Saltsjöqvarn genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-10.jpg)
-
-*Foto A/B Saltsjöqvarn genom Kjell Eklund.*
+![Foto A/B Saltsjöqvarn genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-10.jpg) *Foto A/B Saltsjöqvarn genom Kjell Eklund.*
 
 Runt 1930 år har bilarna tagit över distributionen av det färdiga mjölet. Den chaufför som har tur har tak eller sufflett över förarplatsen. Bilarna kör Sjökvarnsbacken upp från kvarnområdet — den väg som nu är avstängd upp mot brofästet och över Saltsjöbanans spår.
 
-![Vykort från Saltsjökvarn runt 1930. Mannagrynskvarnen är nybyggd och upplyst. Linoljefabriken på klippan är helt nedsläckt.](/assets/hsb/saltsjoqvarn-sq-11.jpg)
-
-*Vykort från Saltsjökvarn runt 1930. Mannagrynskvarnen är nybyggd och upplyst. Linoljefabriken på klippan är helt nedsläckt.*
+![Vykort från Saltsjökvarn runt 1930. Mannagrynskvarnen är nybyggd och upplyst. Linoljefabriken på klippan är helt nedsläckt.](/assets/hsb/saltsjoqvarn-sq-11.jpg) *Vykort från Saltsjökvarn runt 1930. Mannagrynskvarnen är nybyggd och upplyst. Linoljefabriken på klippan är helt nedsläckt.*
 
 Saltsjöqvarn var liksom Kvarnen Tre Kronor längre ut välbekanta sjömärken. Evert Taube skrev och sjöng i Tatuerarevalsen 1928 om Fritiof Andersson, Taubes egen sjöhjälte i visor och berättelser. Fritiof har just anlänt med ett fartyg med spannmålslast från Brasilien:
 
 *”Fröken får jag lov, ska vi dansa ett tag?Andersson heter jag –är hemma ett slag!Kommer från Bahiahej! Sjung faderia!Vi kom in till Saltsjöqvarn just idag”*
 
-![Foto ur Jubileumsboken 1939 A/B Saltsjöqvarn.](/assets/hsb/saltsjoqvarn-sq-12.jpg)
-
-*Foto ur Jubileumsboken 1939 A/B Saltsjöqvarn.*
+![Foto ur Jubileumsboken 1939 A/B Saltsjöqvarn.](/assets/hsb/saltsjoqvarn-sq-12.jpg) *Foto ur Jubileumsboken 1939 A/B Saltsjöqvarn.*
 
 Här syns i bakgrunden Mannagrynskvanen som stod klar 1923 och var den första i sitt slag i Skandinavien. Den byggdes i en stramare stil än den stora kvarnen nedanför.
 
@@ -96,55 +72,39 @@ Från början rymde det höga gula tornet en vattencistern för sprinkleranlägg
 
 Via byggnaderna på kajen lossades och lastades fartygen med hjälp av så kallade elevatorer d.v.s. ett slags rullband som transporterade säd från fartygen och mjöl från kvarnen.
 
-![Foto A/B Saltsjöqvarn genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-13.jpg)
-
-*Foto A/B Saltsjöqvarn genom Kjell Eklund.*
+![Foto A/B Saltsjöqvarn genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-13.jpg) *Foto A/B Saltsjöqvarn genom Kjell Eklund.*
 
 Den tekniska utvecklingen gick framåt. Bilden på valskvarnarna är från 1930 – eller 1940-talet.
 
-![AB Saltsjöqvarn genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-14.jpg)
-
-*AB Saltsjöqvarn genom Kjell Eklund.*
+![AB Saltsjöqvarn genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-14.jpg) *AB Saltsjöqvarn genom Kjell Eklund.*
 
 Så här såg det ut på någon av de övre våningarna i Saltsjöqvarn på1940- eller 1950-talet. Säckarna med kli (en restprodukt) kommer från våningen över på rutschkanan  eller ”slisken” som det heter på kvarnspråk. Fortfarande var muskelkraft viktigt. Idag är här bostadsrätter.
 
-![Ur A/B Saltsjöqvarns jubileumsbok 1943 genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-15.jpg)
-
-*Ur A/B Saltsjöqvarns jubileumsbok 1943 genom Kjell Eklund.*
+![Ur A/B Saltsjöqvarns jubileumsbok 1943 genom Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-15.jpg) *Ur A/B Saltsjöqvarns jubileumsbok 1943 genom Kjell Eklund.*
 
 På 1940-talet var det runt 200 anställda på kvarnen. Alla var alltså inte med på bilden ovan. Det var betydligt färre än de första årtiondena då väldigt mycket av arbetet utfördes med muskelkraft. När kvarnen lades ned 1988 var det bara ett trettiotal anställda.
 
 Sedan 1930-talet ägde Kejsarkronan Saltsjöqvarn.
 
-![1953. Spårvägsmuséet. Dokument id 2017-A7387. Fotograf okänd. Creative Commons Attribution-NonCommercial 3.0 Unported License.](/assets/hsb/saltsjoqvarn-sq-16.jpg)
-
-*1953. Spårvägsmuséet. Dokument id 2017-A7387. Fotograf okänd. Creative Commons Attribution-NonCommercial 3.0 Unported License.*
+![1953. Spårvägsmuséet. Dokument id 2017-A7387. Fotograf okänd. Creative Commons Attribution-NonCommercial 3.0 Unported License.](/assets/hsb/saltsjoqvarn-sq-16.jpg) *1953. Spårvägsmuséet. Dokument id 2017-A7387. Fotograf okänd. Creative Commons Attribution-NonCommercial 3.0 Unported License.*
 
 Kvarnanläggningen växte och moderniserades allteftersom och var hela tiden en av landets största och mest tekniskt utvecklade.
 
-![Ur en broschyr från Kejsarkronan på 1950-talett. ](/assets/hsb/saltsjoqvarn-sq-17.jpg)
-
-*Ur en broschyr från Kejsarkronan på 1950-talett. *
+![Ur en broschyr från Kejsarkronan på 1950-talett. ](/assets/hsb/saltsjoqvarn-sq-17.jpg) *Ur en broschyr från Kejsarkronan på 1950-talett. *
 
 ![Bild från Henriksborgs historia](/assets/hsb/saltsjoqvarn-sq-18.jpg)
 
-![Vykort från runt 1970.](/assets/hsb/saltsjoqvarn-sq-19.jpg)
-
-*Vykort från runt 1970.*
+![Vykort från runt 1970.](/assets/hsb/saltsjoqvarn-sq-19.jpg) *Vykort från runt 1970.*
 
 I mitten av 1970-talet hade den 240 meter långa tunneln ut mot Henriksdal sprängts ut. Trafiken gick från Värmdövägen, vid brofästet, nedför Sjökvarnsbacken till kvarnen och efter lastning ut genom tunneln som var enkelriktad från Saltsjöqvarn. Tunneln underlättade transporterna av mjöl ut – även om en del trafik chansade och körde mot enkelriktningen och senare även mot rött ljus.
 
 Den lägre, stora, byggnaden till vänster i bild var ett spannmålslager utan silor som brann ned 1976. Schaktmassorna efter rivningen ligger i Henriksdalshamnen – ungefär där lekplatserna finns idag.
 
-![Foto A/ B Saltsjökvarn efter 1970 genom Kjell Eklund. ](/assets/hsb/saltsjoqvarn-sq-20.jpg)
-
-*Foto A/ B Saltsjökvarn efter 1970 genom Kjell Eklund. *
+![Foto A/ B Saltsjökvarn efter 1970 genom Kjell Eklund. ](/assets/hsb/saltsjoqvarn-sq-20.jpg) *Foto A/ B Saltsjökvarn efter 1970 genom Kjell Eklund. *
 
 De här silorna stod vid  det som idag är Västra Finnbodavägen 7 och busshållplats med namnet Saltsjöqvarn. Som mest kunde 32 000 ton spannmål lagras i alla silor på området innan det var dags för malning. Nu står det Kungsörnen på silorna.
 
-![Foto: Valentin Lurz 1976.](/assets/hsb/saltsjoqvarn-sq-21-1-2048x1391.jpg)
-
-*Foto: Valentin Lurz 1976.*
+![Foto: Valentin Lurz 1976.](/assets/hsb/saltsjoqvarn-sq-21-1-2048x1391.jpg) *Foto: Valentin Lurz 1976.*
 
 Till höger om kvarnen syns den gula direktörsvillan. Den byggdes senare om till fyra lägenheter – den sista platschefen, Kjell Eklund, bodde några år i en av lägenheterna.  Efter branden 1986 revs den gula villan.
 
@@ -152,15 +112,11 @@ Nedanför den gula villan syns Cereallaboratoriet som också var kontor. Den hö
 
 Kapaciteten i spannmålssilorna mångdubblades med åren och var på slutet 32 000 ton. Det mesta levererades ju hit på hösten. För att hålla en bra och genomgående kvalitet blandades spannmål från olika år – som man gör med champagne. På samma sätt kunde man göra med mjölet. Varje år fick kvarnen spannmål från statens beredskapslager som omsattes vart 5–6 år.
 
-![DN 13 december 1981. Mannagrynskvarnen benämns felaktigt Saltsjöblick som var försäljningsnamnet för radhusen på Henriksborgsklippan.](/assets/hsb/saltsjoqvarn-sq-22.jpg)
-
-*DN 13 december 1981. Mannagrynskvarnen benämns felaktigt Saltsjöblick som var försäljningsnamnet för radhusen på Henriksborgsklippan.*
+![DN 13 december 1981. Mannagrynskvarnen benämns felaktigt Saltsjöblick som var försäljningsnamnet för radhusen på Henriksborgsklippan.](/assets/hsb/saltsjoqvarn-sq-22.jpg) *DN 13 december 1981. Mannagrynskvarnen benämns felaktigt Saltsjöblick som var försäljningsnamnet för radhusen på Henriksborgsklippan.*
 
 I början av 1980-talet fanns planer på att bygga ett jättebageri på Bagarberget – söder om Saltsjöqvarn och Mannagrynskvarnen. Brödproduktionen i Stockholm skulle samlas i en jättebyggnad 160 meter lång och 45 meter hög. Spannmålet skulle skickas i pipelines från kvarnen in i det jättelika bageriet. Protesterna var massiva från bland annat länsstyrelsen och de kringboende, särskilt från radhusen på Henriksborg. Dels protesterade man mot det redan existerande bullret, dels oroade man sig för den stora mängden brödbilar och för att utsikten skulle förstöras. Till slut begravdes byggplanerna för projektet ansågs orealistiskt – men det var inte den sista striden om berget.
 
-![Foto Kjell Eklund år 1988.](/assets/hsb/saltsjoqvarn-sq-23-2048x1425.jpg)
-
-*Foto Kjell Eklund år 1988.*
+![Foto Kjell Eklund år 1988.](/assets/hsb/saltsjoqvarn-sq-23-2048x1425.jpg) *Foto Kjell Eklund år 1988.*
 
 På valsbotten i Saltsjöqvarn stod ca 50 valsstolar där mjölet maldes. De närmaste är från 1920-talet men moderniserades och var nu delvis automatiserade.
 
@@ -174,9 +130,7 @@ Senare bildade Lantmännen genom dotterbolaget Cerealia företaget Nord Mills.
 
 1985 fattades beslut att lägga ned Saltsjöqvarn för att i stället satsa på kvarnen i Uppsala som låg nära järnvägen. Saltsjöqvarn höll igång produktionen i ytterligare fyra år – men det var inte odramatiskt.
 
-![Foto Kjell Eklund 1986.](/assets/hsb/saltsjoqvarn-sq-24-2048x1385.jpg)
-
-*Foto Kjell Eklund 1986.*
+![Foto Kjell Eklund 1986.](/assets/hsb/saltsjoqvarn-sq-24-2048x1385.jpg) *Foto Kjell Eklund 1986.*
 
 Klockan 10.29 den  3 januari 1986  gick automatlarmet i mjölmagasin 2 – jättebyggnaden som låg bakom den stora kvarnen  mot berget. Ett drivband som hade slirat antändes och startade branden. Platschefen Kjell Eklund minns den dagen.
 
@@ -184,31 +138,23 @@ Klockan 10.29 den  3 januari 1986  gick automatlarmet i mjölmagasin 2 – jä
 
 – Magasinsväggarna var av tegel men över 1 000 ton mjöl och träinredningen gjorde att branden fick ett katastrofalt förlopp. Släckningsarbetet blev inte lättare av att det var kallt och och besvärligt. De boende på Danviksklippan levde i svart rök i flera dagar.
 
-![Foto Kjell Eklund 1986. Tegelbyggnaden till vänster är idag västra gaveln på  Elite Hotel med bostadsrätterna åt detta håll.](/assets/hsb/saltsjoqvarn-sq-25-scaled.jpg)
-
-*Foto Kjell Eklund 1986. Tegelbyggnaden till vänster är idag västra gaveln på  Elite Hotel med bostadsrätterna åt detta håll.*
+![Foto Kjell Eklund 1986. Tegelbyggnaden till vänster är idag västra gaveln på  Elite Hotel med bostadsrätterna åt detta håll.](/assets/hsb/saltsjoqvarn-sq-25-scaled.jpg) *Foto Kjell Eklund 1986. Tegelbyggnaden till vänster är idag västra gaveln på  Elite Hotel med bostadsrätterna åt detta håll.*
 
 Det brann och glödde i mjölet och de nerrasade bjälklagen i flera månader och inte förrän i början av maj var en av de största bränderna i Nacka släckt och den hade då kostat försäkringsbolaget uppåt 50 miljoner. I kapitlet om Finnboda varv kan man läsa om branden på passagerarfartygen Sally Albatross som också var en storbrand.
 
 Huset till höger var kontor och laboratorium som förstördes av vattenmassorna. Även den gula före detta direktörsvillan revs nu. Branden gjorde 13 personer arbetslösa – de fick erbjudande om andra jobb på bageriet i Hornsberg som ingick i koncernen.
 
-![Foto Kjell Eklund 1986. Från Bagarberget.](/assets/hsb/saltsjoqvarn-sq-26.jpg)
-
-*Foto Kjell Eklund 1986. Från Bagarberget.*
+![Foto Kjell Eklund 1986. Från Bagarberget.](/assets/hsb/saltsjoqvarn-sq-26.jpg) *Foto Kjell Eklund 1986. Från Bagarberget.*
 
 - All personal på kvarnen ställde upp på ett bra sätt så att vi efter bara tre dagar var leveransdugliga igen. Visserligen inte längre med förpackade produkter, men väl med leveranser av löst mjöl i bulkbilar. För mig blev det ett drygt arbete med alla försäkringsfrågor och rivningstillstånd under 2 års tid innan jag kunde lägga följderna av branden bakom mig, slutar Kjell Eklund som ett par år senare var med när Saltsjöqvarn lades ned i december 1988.
 
 Några år tidigare, i början av 1980-talet, hade en annan byggnad i området brunnit – den innehöll ateljéer men ingen industriell verksamhet. Den stod på kajen öster om dagens gula byggnad, det så kallade dårhuset. Den var den gamla  och första linoljefabriken (inte att förväxla med den uppe på Henriksborgsklippan där radhusen idag ligger). Där hade just hållits en stor konstutställning IBID II med deltagande av en rad konstnärer som idag är representerade på Nationalmuseum. Några ungdomar fälldes för att ha anlagt branden.
 
-![Foto: Kjell Eklund 1986](/assets/hsb/saltsjoqvarn-sq-27.jpg)
-
-*Foto: Kjell Eklund 1986*
+![Foto: Kjell Eklund 1986](/assets/hsb/saltsjoqvarn-sq-27.jpg) *Foto: Kjell Eklund 1986*
 
 Nu är det bara några år kvar till nedläggningen Saltsjöqvarn. Den största kvarnen, eller kvarnverket, kunde mala 220 ton vete på ett dygn. Lossning av spannmål från fartyg gick nu snabbt – 150 ton per timma. Bakom kvarnen, mot berget, står väggarna kvar på den nyligen brunna lagerbyggnaden.
 
-![Bagarberget utan bebyggelse 1986. I bakgrunden Danviksklippans hus. Foto söderut från kvarnen av Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-28.jpg)
-
-*Bagarberget utan bebyggelse 1986. I bakgrunden Danviksklippans hus. Foto söderut från kvarnen av Kjell Eklund.*
+![Bagarberget utan bebyggelse 1986. I bakgrunden Danviksklippans hus. Foto söderut från kvarnen av Kjell Eklund.](/assets/hsb/saltsjoqvarn-sq-28.jpg) *Bagarberget utan bebyggelse 1986. I bakgrunden Danviksklippans hus. Foto söderut från kvarnen av Kjell Eklund.*
 
 Runt 1985 hade Kungsörnens moderbolag inom Lantmännen, AB Cerealia, gjort upp med Länsfastigheter om att området skulle exploateras efter nedläggningen. NCC köpte hela kvarnområdet 1996 och byggplanerna för Bagarberget blev verklighet först.
 
@@ -216,9 +162,7 @@ På NCC Boende (numera Bonava) arbetade då Björn Stenqvist som, av en tillfäl
 
 De planerna skulle, liksom när det gällde jättebageriet, vålla starka protester från de kringboende och många andra. Detta försenade bygget ett år. Byggplanerna föranledde till och med en ockupation av berget. Björn jobbade i flera år med detaljplanerna för Bagarberget och bor nu själv i området.
 
-![Betongsilor och maskintorn rivs. Foto efter 1990. Fotograf okänd. Nackas lokalhistoriska arkiv. ](/assets/hsb/saltsjoqvarn-sq-29.jpg)
-
-*Betongsilor och maskintorn rivs. Foto efter 1990. Fotograf okänd. Nackas lokalhistoriska arkiv. *
+![Betongsilor och maskintorn rivs. Foto efter 1990. Fotograf okänd. Nackas lokalhistoriska arkiv. ](/assets/hsb/saltsjoqvarn-sq-29.jpg) *Betongsilor och maskintorn rivs. Foto efter 1990. Fotograf okänd. Nackas lokalhistoriska arkiv. *
 
 Idag återstår bara ett fåtal K‑märkta byggnader från den industriella epoken i området.
 

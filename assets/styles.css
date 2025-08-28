@@ -418,19 +418,21 @@ a:hover {
 
 /* Hero section */
 .hero {
+  position: relative;
   text-align: center;
   margin-bottom: 4rem;
-  padding: 4rem 0;
+  padding: 6rem 1rem;
   background: var(--bg);
   border-radius: 20px;
   border: 1px solid var(--border);
   box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+  overflow: hidden;
 }
 
 .hero h1 {
-  font-size: 3.5rem;
+  font-size: 3.2rem;
   margin-bottom: 1.5rem;
-  color: var(--text);
+  color: #fff;
   font-weight: 700;
   letter-spacing: -0.025em;
   line-height: 1.2;
@@ -438,11 +440,34 @@ a:hover {
 
 .ingress {
   font-size: 1.4rem;
-  color: var(--muted);
+  color: #e5e7eb;
   max-width: 600px;
   margin: 0 auto;
   line-height: 1.6;
   font-weight: 400;
+}
+
+/* Hero with background image and dark gradient overlay */
+.hero-has-bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: var(--hero-image);
+  background-size: cover;
+  background-position: center;
+  filter: saturate(0.9) contrast(1.05);
+}
+
+.hero-has-bg::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(0,0,0,0.55), rgba(0,0,0,0.35) 40%, rgba(0,0,0,0.6));
+}
+
+.hero-has-bg > * {
+  position: relative;
+  z-index: 1;
 }
 
 /* Articles grid */
