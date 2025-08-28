@@ -2,6 +2,8 @@
 layout: page
 title: "Finnboda Varv"
 permalink: /finnboda-varv/
+excerpt: "Varvsepoken vid Finnboda – fartyg, bränder och förändring."
+featured_image: /assets/hsb/finnboda-varv-finn-1.jpg
 ---
 
 # Finnboda Varv

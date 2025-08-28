@@ -2,6 +2,8 @@
 layout: page
 title: "Kvarnholmen och Svindersviken"
 permalink: /kvarnholmen-och-svindersviken/
+excerpt: "Kvarnholmen och Svindersviken – industri och stadsomvandling."
+featured_image: /assets/hsb/kvarnholmen-och-svindersviken-kvh-1.jpg
 ---
 
 # Kvarnholmen och Svindersviken

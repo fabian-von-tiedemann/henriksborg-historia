@@ -2,6 +2,8 @@
 layout: page
 title: "Saltsjöqvarn"
 permalink: /saltsjoqvarn/
+excerpt: "Från ståtlig kvarn till hotell och bostäder vid Saltsjön."
+featured_image: /assets/hsb/saltsjoqvarn-sq-3.jpg
 ---
 
 # Saltsjöqvarn

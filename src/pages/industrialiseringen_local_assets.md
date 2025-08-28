@@ -2,6 +2,8 @@
 layout: page
 title: "Industrialiseringen"
 permalink: /industrialiseringen/
+excerpt: "Smutsiga industrier, elens intåg och fabriker kring Henriksborg."
+featured_image: /assets/hsb/industrialiseringen-ind-3-2048x1569.jpg
 ---
 
 # Industrialiseringen

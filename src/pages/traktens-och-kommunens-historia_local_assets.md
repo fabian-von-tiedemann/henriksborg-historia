@@ -2,6 +2,8 @@
 title: Traktens och kommunens historia
 permalink: /traktens-och-kommunens-historia/
 layout: page
+excerpt: "Från vikingatid till dagens Nacka – en snabb översikt."
+featured_image: /assets/hsb/traktens-och-kommunens-historia-historia-1.jpg
 ---
 # Traktens och kommunens historia
 

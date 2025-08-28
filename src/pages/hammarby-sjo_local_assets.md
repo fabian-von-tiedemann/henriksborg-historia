@@ -2,6 +2,8 @@
 layout: page
 title: "Hammarby sjö"
 permalink: /hammarby-sjo/
+excerpt: "När Danviks rännil blev kanal och Stockholm förändrades."
+featured_image: /assets/hsb/hammarby-sjo-hsjo-13-2048x1452.jpg
 ---
 
 # Hammarby sjö

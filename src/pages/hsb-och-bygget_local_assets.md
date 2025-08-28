@@ -2,6 +2,8 @@
 layout: page
 title: "HSB och bygget"
 permalink: /hsb-och-bygget/
+excerpt: "HSB:s radhusplaner, övre fabriken och hur klippan förvandlades."
+featured_image: /assets/hsb/hsb-och-bygget-hb-boken-kap-1-bild-1.jpg
 ---
 
 # HSB och bygget
