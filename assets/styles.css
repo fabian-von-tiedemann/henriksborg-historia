@@ -87,19 +87,21 @@ header {
   background: transparent; 
   border: 0; 
   color: var(--text); 
-  border-radius: 6px; 
-  padding: 0.12rem 0.45rem; 
+  border-radius: 0; 
+  padding: 0 0.35rem; 
   font-size: 0.8rem;
-  line-height: 1.1;
+  line-height: 1;
+  margin: 0;
 }
 
 .nav-links .pill + .pill {
-  border-left: 1px solid var(--border);
+  border-left: none;
 }
 
 .pill:hover { 
-  background: var(--card-bg); 
+  background: transparent; 
   color: var(--text); 
+  text-decoration: underline;
 }
 
 .pill.active { 
@@ -107,6 +109,7 @@ header {
   color: #fff; 
   border-radius: 999px; 
   margin: 0 2px; 
+  padding: 0 0.5rem;
 }
 
 .container { 
