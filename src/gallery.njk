@@ -1,0 +1,70 @@
+---
+layout: page
+title: "Bildgalleri"
+permalink: /galleri/
+---
+
+<h1>Bildgalleri</h1>
+<p>Bläddra bland bilder och bildtexter från alla artiklar.</p>
+
+<div id="gallery" class="gallery">
+  <div class="gallery-main">
+    <img id="gallery-main-image" alt="" />
+    <div id="gallery-main-caption" class="gallery-caption"></div>
+  </div>
+  <div id="gallery-thumbs" class="gallery-thumbs"></div>
+  <div class="gallery-controls">
+    <button id="gallery-prev" aria-label="Föregående">‹</button>
+    <button id="gallery-next" aria-label="Nästa">›</button>
+  </div>
+</div>
+
+<script>
+  (async function(){
+    const res = await fetch('/assets/gallery.json');
+    const images = await res.json();
+    const mainImg = document.getElementById('gallery-main-image');
+    const mainCap = document.getElementById('gallery-main-caption');
+    const thumbs = document.getElementById('gallery-thumbs');
+    const prev = document.getElementById('gallery-prev');
+    const next = document.getElementById('gallery-next');
+    let idx = 0;
+
+    function renderThumbs(){
+      thumbs.innerHTML = '';
+      images.forEach((it, i)=>{
+        const t = document.createElement('img');
+        t.src = it.src; t.alt = it.alt || '';
+        t.className = 'thumb' + (i===idx?' active':'');
+        t.addEventListener('click', ()=>{ idx=i; renderMain(); renderThumbs(); });
+        thumbs.appendChild(t);
+      });
+    }
+
+    function renderMain(){
+      const it = images[idx];
+      mainImg.src = it.src; mainImg.alt = it.alt || '';
+      mainCap.textContent = it.caption || '';
+    }
+
+    prev.addEventListener('click', ()=>{ if(idx>0){ idx--; renderMain(); renderThumbs(); } });
+    next.addEventListener('click', ()=>{ if(idx<images.length-1){ idx++; renderMain(); renderThumbs(); } });
+
+    renderMain();
+    renderThumbs();
+  })();
+</script>
+
+<style>
+  .gallery { display: grid; gap: 1rem; }
+  .gallery-main { text-align: center; }
+  .gallery-main img { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,.1); }
+  .gallery-caption { margin-top: .5rem; color: var(--muted); font-style: italic; }
+  .gallery-thumbs { display: flex; gap: .5rem; overflow-x: auto; padding: .25rem; }
+  .gallery-thumbs .thumb { width: 90px; height: 60px; object-fit: cover; border-radius: 4px; opacity: .6; cursor: pointer; border: 2px solid transparent; }
+  .gallery-thumbs .thumb.active, .gallery-thumbs .thumb:hover { opacity: 1; border-color: var(--accent); }
+  .gallery-controls { display: flex; gap: .5rem; justify-content: center; }
+  .gallery-controls button { padding: .4rem .6rem; border: 1px solid var(--border); background: var(--card-bg); border-radius: 6px; cursor: pointer; }
+</style>
+
+
