@@ -8,7 +8,7 @@ featured_image: /assets/hsb/kvarnholmen-och-svindersviken-kvh-1.jpg
 
 # Kvarnholmen och Svindersviken
 
-# Kvarnholmen och Svindersviken
+## Kvarnholmen och Svindersviken
 
 **Kvarnholmen och Svindersviken har hyst fabriker och arbetarbostäder i över hundra år. Då växte Stockholm utåt och industrierna fick lämna innerstaden. Nu är det bostäderna som breder ut sig utefter vattnet öster om Stockholm.**
 

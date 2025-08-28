@@ -7,7 +7,7 @@ featured_image: /assets/hsb/traktens-och-kommunens-historia-historia-1.jpg
 ---
 # Traktens och kommunens historia
 
-# Från vikingatid till dagens Nacka
+## Från vikingatid till dagens Nacka
 
 **Nacka var inte särskilt tätbefolkat för några hundra år sedan. Gustav Vasa startade manufakturer och kvarnar på 1500-talet och flyttade hit Hospitalet. Senare präglades kommunen av de stora industrierna som styrde och ställde i kommunen. Saltsjöbanan betydde mycket även för den industriella utvecklingen. Närheten till det expanderade Stockholm var påtaglig. Huvudstaden naggade Nacka i kanten – men lyckades inte svälja hela kommunen.**
 

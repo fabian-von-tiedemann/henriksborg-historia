@@ -8,7 +8,7 @@ featured_image: /assets/hsb/hammarby-sjo-hsjo-13-2048x1452.jpg
 
 # Hammarby sjö
 
-# Danviks rännil blir Danviks kanal och hela Hammarby sjö förändras
+## Danviks rännil blir Danviks kanal och hela Hammarby sjö förändras
 
 **När Gustav Vasa på 1500-talet flyttade dårarna och de sjuka till Danviken och höjde vattennivån i Hammarby sjö med fem meter kunde det byggas fler och större vattenkvarnar vid hospitalet. Men 400 år senare låg hela Danvikens hospital i vägen för storstadens transporter med båt. Ett jättelikt byggprojekt förvandlade hela området till en kanal, hamnar och kajer som senare blev till moderna bostadsområden i nästa omdaning.**
 

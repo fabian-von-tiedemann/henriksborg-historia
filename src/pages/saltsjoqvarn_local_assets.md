@@ -8,9 +8,9 @@ featured_image: /assets/hsb/saltsjoqvarn-sq-3.jpg
 
 # Saltsjöqvarn
 
-Industrihistoria som blev hotell
+## Industrihistoria som blev hotell
 
-**Saltsjöqvarn var i många år en av landets ledande kvarnar och ett landmärke för sjöfarten – besjungen av Evert Taube. Byggd i slutet av 1800-talet i den tidens nästan slottsmässiga stil lades den ned hundra år senare – offrad på rationaliseringarnas altare och återuppstånden som hotell och bostäder när de bästa sjölägena bebyggdes. **
+**Saltsjöqvarn var i många år en av landets ledande kvarnar och ett landmärke för sjöfarten – besjungen av Evert Taube. Byggd i slutet av 1800-talet i den tidens nästan slottsmässiga stil lades den ned hundra år senare – offrad på rationaliseringarnas altare och återuppstånden som hotell och bostäder när de bästa sjölägena bebyggdes.**
 
 ![Ur en broschyr från Kejsarkronan från 1950- eller 1960-talet.](/assets/hsb/saltsjoqvarn-sq-1.jpg) *Ur en broschyr från Kejsarkronan från 1950- eller 1960-talet.*
 

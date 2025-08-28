@@ -9,7 +9,7 @@ featured_image: /assets/hsb/danvikens-hospital-dh-1.jpg
 ---
 # Danvikens hospital
 
-# Danvikens hospital var framsynt på 1500-talet – men en skam några hundra år senare
+## Danvikens hospital var framsynt på 1500-talet – men en skam några hundra år senare
 
 **Danvikens hospital, som grundades av Gustav Vasa, har kallats både den svenska socialvårdens vagga och en skam. Från början tvingades de sjuka ut ur staden för att de luktade och spred orenlighet. I flera hundra år levde här fattiga, spetälska, mentalsjuka, krigsinvalider och barn. Danvikens hospital var den största jordägaren på Sicklaön och en maktfaktor. Med tiden förföll byggnaderna och förhållandena blev så olidliga att stora förändringar krävdes – men då blev det för fint de fattiga.**
 

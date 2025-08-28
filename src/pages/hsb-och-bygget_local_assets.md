@@ -8,7 +8,7 @@ featured_image: /assets/hsb/hsb-och-bygget-hb-boken-kap-1-bild-1.jpg
 
 # HSB och bygget
 
-”Lyxradhusen” tar över på Henriksborgsklippan
+## ”Lyxradhusen” tar över på Henriksborgsklippan
 
 **Det var inte alls självklart att det skulle bli radhus på Henriksborg eller ens att det skulle heta Henriksborg. Först var tanken att Folksams huvudkontor skulle byggas på berget. Det fanns också krav på flerfamiljshus i stället för de kritiserade ”lyxradhusen” som HSB ville bygga. När de väl byggts och skulle säljas var det inte lätt att hitta köpare till alla de dyra radhusen.**
 

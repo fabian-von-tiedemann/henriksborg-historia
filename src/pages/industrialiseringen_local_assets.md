@@ -8,7 +8,7 @@ featured_image: /assets/hsb/industrialiseringen-ind-3-2048x1569.jpg
 
 # Industrialiseringen
 
-# Fabrikerna kommer till Henriksborg
+## Fabrikerna kommer till Henriksborg
 
 **Området runt Henriksborg var bra för smutsiga och farliga industrier som inte kunde ligga inne i Stockholm. Läget vid Saltsjön var perfekt när industrialismen slog igenom och arbetskraft fanns på Söder. På Henriksborgsklippan byggdes rekordsnabbt en modern fabrik med massor av elektriskt ljus som fascinerade bland andra målaren prins Eugen där han stod vid sitt staffli på Waldemarsudde. Senare växte också många moderna bostadshus upp.**
 

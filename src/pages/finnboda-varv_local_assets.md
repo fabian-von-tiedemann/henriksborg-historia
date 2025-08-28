@@ -8,7 +8,7 @@ featured_image: /assets/hsb/finnboda-varv-finn-1.jpg
 
 # Finnboda Varv
 
-# 100 fartyg på 100 år
+## 100 fartyg på 100 år
 
 **Finnboda Varv var tidvis ett av landets största. Under varvets hundra år gled 110 fartyg av stapelbäddarna innan allt tog slut i den stora varvskrisen. En rad fartyg flyter ännu – antingen som museifartyg, på Göta kanal eller t. ex. i skärgården. Många byggnader står kvar liksom rester av en stapelbädd som har sparats bland dagens bostäder – flera nya hus ligger på pirar i vattnet på de gamla fartygsdockornas plats.**
 
