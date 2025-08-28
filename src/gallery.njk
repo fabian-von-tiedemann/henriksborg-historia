@@ -23,6 +23,33 @@ permalink: /galleri/
   (async function(){
     const res = await fetch('/assets/gallery.json');
     const images = await res.json();
+    // Grupp per artikel
+    const groups = images.reduce((acc, it)=>{
+      const key = it.permalink || it.page_title || it.page;
+      if(!acc[key]) acc[key] = { title: it.page_title || it.page, permalink: it.permalink, items: [] };
+      acc[key].items.push(it);
+      return acc;
+    }, {});
+    const groupKeys = Object.keys(groups);
+    // Sortera efter vår meny-ordning om möjligt
+    const order = [
+      '/hsb-och-bygget/',
+      '/saltsjoqvarn/',
+      '/industrialiseringen/',
+      '/hammarby-sjo/',
+      '/traktens-och-kommunens-historia/',
+      '/finnboda-varv/',
+      '/danvikens-hospital/',
+      '/kvarnholmen-och-svindersviken/'
+    ];
+    groupKeys.sort((a,b)=>{
+      const ia = order.indexOf(groups[a].permalink||'');
+      const ib = order.indexOf(groups[b].permalink||'');
+      if(ia===-1 && ib===-1) return a.localeCompare(b);
+      if(ia===-1) return 1; if(ib===-1) return -1; return ia-ib;
+    });
+    // Platta till i sorterad ordning
+    const sortedImages = groupKeys.flatMap(k=>groups[k].items);
     const mainImg = document.getElementById('gallery-main-image');
     const mainCap = document.getElementById('gallery-main-caption');
     const thumbs = document.getElementById('gallery-thumbs');
@@ -32,7 +59,7 @@ permalink: /galleri/
 
     function renderThumbs(){
       thumbs.innerHTML = '';
-      images.forEach((it, i)=>{
+      sortedImages.forEach((it, i)=>{
         const t = document.createElement('img');
         t.src = it.src; t.alt = it.alt || '';
         t.className = 'thumb' + (i===idx?' active':'');
@@ -42,13 +69,13 @@ permalink: /galleri/
     }
 
     function renderMain(){
-      const it = images[idx];
+      const it = sortedImages[idx];
       mainImg.src = it.src; mainImg.alt = it.alt || '';
       mainCap.textContent = it.caption || '';
     }
 
     prev.addEventListener('click', ()=>{ if(idx>0){ idx--; renderMain(); renderThumbs(); } });
-    next.addEventListener('click', ()=>{ if(idx<images.length-1){ idx++; renderMain(); renderThumbs(); } });
+    next.addEventListener('click', ()=>{ if(idx<sortedImages.length-1){ idx++; renderMain(); renderThumbs(); } });
 
     renderMain();
     renderThumbs();
