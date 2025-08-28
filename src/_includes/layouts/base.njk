@@ -4,6 +4,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ title or 'Henriksborg' }}</title>
+  {% set ogTitle = title or 'Henriksborgs Historia' %}
+  {% set ogDesc = excerpt or 'Henriksborgs historia och omgivning.' %}
+  {% set ogImage = social_image or featured_image or '/assets/hsb/hsb-och-bygget-1955-svenska-oljeslageriaktiebolaget.jpg' %}
+  <meta property="og:title" content="{{ ogTitle }}" />
+  <meta property="og:description" content="{{ ogDesc }}" />
+  <meta property="og:image" content="{{ ogImage }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ ogTitle }}" />
+  <meta name="twitter:description" content="{{ ogDesc }}" />
+  <meta name="twitter:image" content="{{ ogImage }}" />
   <link rel="stylesheet" href="/assets/styles.css">
   <script src="/assets/image-viewer.js" defer></script>
 </head>

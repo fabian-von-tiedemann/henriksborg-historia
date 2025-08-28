@@ -1,5 +1,6 @@
 {% extends "./base.njk" %}
 {% block content %}
+{% set social_image = featured_image or ('/assets/social/' + (permalink | replace('/', '') ) + '.jpg') %}
 <main>
   <article>
     {{ content | safe }}
